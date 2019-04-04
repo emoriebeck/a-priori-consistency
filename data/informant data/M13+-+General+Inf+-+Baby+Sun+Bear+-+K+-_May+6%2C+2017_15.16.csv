@@ -1,0 +1,511 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,Q805,Q81,Q85,Q83,Q72,Q74,Q76,Q1016,Q1018,Q1022,Q1020,Q1020_6_TEXT,Q134,Q933_1,Q933_2,Q933_3,Q933_4,Q933_5,Q933_6,Q933_7,Q933_8,Q933_9,Q933_10,Q933_11,Q933_12,Q933_13,Q933_14,Q933_15,Q933_16,Q933_17,Q933_18,Q933_19,Q933_20,Q933_21,Q933_22,Q933_23,Q933_24,Q933_25,Q933_26,Q933_27,Q933_28,Q933_29,Q933_30,Q933_31,Q933_32,Q933_33,Q933_34,Q933_35,Q933_36,Q933_37,Q933_38,Q933_39,Q933_40,Q933_41,Q933_42,Q933_43,Q933_44,Q933_45,Q933_46,Q933_47,Q933_48,Q933_49,Q933_50,Q933_51,Q933_52,Q933_53,Q933_54,Q933_55,Q933_56,Q933_57,Q933_58,Q933_59,Q933_60,Q933_61,Q933_62,Q933_63,Q933_64,Q933_65,Q933_66,Q933_67,Q933_68,Q933_69,Q933_70,Q933_71,Q933_72,Q933_73,Q933_74,Q933_75,Q933_76,Q933_77,Q933_78,Q933_79,Q149_1,Q75,Q77_1_1,Q77_2_1,Q978_1,Q978_2,Q978_3,Q979_1,Q979_2,Q979_3,Q166_1_1,Q166_1_2,Q166_2_1,Q166_2_2,Q166_3_1,Q166_3_2,Q166_4_1,Q166_4_2,Q166_5_1,Q166_5_2,Q166_6_1,Q166_6_2,Q996_1,Q996_2,Q31,Q32,Q67,Q33,Q34,Q63,Q35,Q67,Q876
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,"Please type in your ID number 
+
+(as listed in the email):",I would like to see commonly asked questions or have questions of my own.,"This consent form is not a contract. It is a written explanation of what will happen during the study if you decide to participate as an informant. You are not waiving any legal rights by agreeing to participate in this study as an informant.
+
+
+
+I have read this consent form and have been given a chance to ask questions. I agree to participate as an informant in the research study described above titled, Personality and Intimate Relationships Study (PAIRS). I can print a copy of this form for my records",Do you expect to be paid more than $600 in aggregate during the calendar year by Washington University in St. Louis?,Choose one:,Please type your social security number below:,"If you are willing, please provide your mailing address below. (This will be used for record keeping purposes by Washington University only. We will not mail you anything or distribute your information to anyone.)",Your gender:,Your Age:,Your ethnicity:,Your race (choose all that apply): - Selected Choice,Your race (choose all that apply): - Other - Text,Type the name of the friend who nominated you for this study:,"Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is talkative","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - tends to find fault with others","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - does a thorough job","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is depressed, blue","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is original, comes up with new ideas","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is reserved","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - can be somewhat careless","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is full of energy","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - starts quarrels with others","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - can be tense","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is ingenious, a deep thinker","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - generates a lot of enthusiasm","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - has a forgiving nature","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - tends to be disorganized","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is generally trusting","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is emotionally stable, not easily upset","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is inventive","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - has an assertive personality","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - can be cold and aloof","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - perseveres until the task is finished","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - feels close, connected to others","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - can be moody","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - values artistic, aesthetic experiences","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is sometimes shy, inhibited","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - does things efficiently","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - remains calm in tense situations","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - prefers work that is routine","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - makes plans and follows through with them","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - gets nervous easily","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - likes to reflect, play with ideas","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - has few artistic interests","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - likes to cooperate with others","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is easily distracted","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is sophisticated in art, music, or literature","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is helpful and unselfish with others","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - likes being around others","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is relaxed, handles stress well","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is curious about many different things","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is a reliable worker","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - worries a lot","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - has an active imagination","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - tends to be quiet","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - tends to be lazy","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is considerate and kind to almost everyone","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is outgoing, sociable","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is sometimes rude to others","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is intelligent","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is funny","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is physically attractive","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is likeable","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is creative","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is interesting","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is happy","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - has high self-esteem","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is lonely","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is arrogant","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is authentic","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is self-disclosing","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is satisfied with life","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - knows his/her personality","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is aware of his/her behavior","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is aware of the impression he/she makes on others","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is satisfied with his/her current romantic relationship status","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is charming","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is confident","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - feels a lack of personal meaning in life","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is dominant","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is impulsive","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - complains","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is predictable","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is moral/does the right thing","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - is optimistic","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - has compassion for others","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - expresses warmth towards others","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - expresses positive emotions","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - expresses negative emotions","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - laughs","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - self-deprecates (puts self down)","Here are a number of characteristics that may or may not apply to [QID1044-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1044-ChoiceTextEntryValue].Please answer as honestly and accurately as possible.
+
+
+
+
+
+[QID1044-ChoiceTextEntryValue] is someone who... - brags",Rate the depth of conversation (from superficial to substantive) [QID1044-ChoiceTextEntryValue] tends to engage in. - [QID1044-ChoiceTextEntryValue]'s depth of conversation,Has [QID1044-ChoiceTextEntryValue]'s personality changed since the last time you filled out this survey?,How has [QID1044-ChoiceTextEntryValue] changed? - [QID1044-ChoiceTextEntryValue] is more -,How has [QID1044-ChoiceTextEntryValue] changed? - [QID1044-ChoiceTextEntryValue] is less -,"On the lines below, please type in [QID1044-ChoiceTextEntryValue]'s 3 cardinal traits. These are the 3 traits that dominate [QID1044-ChoiceTextEntryValue]'s personality (in other words, he/she is known specifically for having these traits). - Cardinal trait 1:","On the lines below, please type in [QID1044-ChoiceTextEntryValue]'s 3 cardinal traits. These are the 3 traits that dominate [QID1044-ChoiceTextEntryValue]'s personality (in other words, he/she is known specifically for having these traits). - Cardinal trait 2:","On the lines below, please type in [QID1044-ChoiceTextEntryValue]'s 3 cardinal traits. These are the 3 traits that dominate [QID1044-ChoiceTextEntryValue]'s personality (in other words, he/she is known specifically for having these traits). - Cardinal trait 3:",Q979 - [QID978-ChoiceTextEntryValue-1] describes/dominates [QID1044-ChoiceTextEntryValue]'s personality,Q979 - [QID978-ChoiceTextEntryValue-2] describes/dominates [QID1044-ChoiceTextEntryValue]'s personality,Q979 - [QID978-ChoiceTextEntryValue-3] describes/dominates [QID1044-ChoiceTextEntryValue]'s personality,Think about [QID1044-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID1044-ChoiceTextEntryValue]'s two best qualities/traits are... - Quality/Trait 1,Think about [QID1044-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID1044-ChoiceTextEntryValue]'s two best qualities/traits are... - Quality/Trait 2,Think about [QID1044-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID1044-ChoiceTextEntryValue] would say his/her two best qualities/traits... - [QID1044-ChoiceTextEntryValue] would say his/her two best qualities/traits are: - Quality/Trait 1,Think about [QID1044-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID1044-ChoiceTextEntryValue] would say his/her two best qualities/traits... - [QID1044-ChoiceTextEntryValue] would say his/her two best qualities/traits are: - Quality/Trait 2,Think about [QID1044-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - Other people would say [QID1044-ChoiceTextEntryValue]'s two best qualities/... - Other people would say [QID1044-ChoiceTextEntryValue]'s two best qualities/traits are: - Quality/Trait 1,Think about [QID1044-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - Other people would say [QID1044-ChoiceTextEntryValue]'s two best qualities/... - Other people would say [QID1044-ChoiceTextEntryValue]'s two best qualities/traits are: - Quality/Trait 2,Think about [QID1044-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID1044-ChoiceTextEntryValue]'s two worst qualities/traits are... - Quality/Trait 1,Think about [QID1044-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID1044-ChoiceTextEntryValue]'s two worst qualities/traits are... - Quality/Trait 2,Think about [QID1044-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID1044-ChoiceTextEntryValue] would say his/her two worst qualities/traits... - [QID1044-ChoiceTextEntryValue] would say his/her two worst qualities/traits are: - Quality/Trait 1,Think about [QID1044-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID1044-ChoiceTextEntryValue] would say his/her two worst qualities/traits... - [QID1044-ChoiceTextEntryValue] would say his/her two worst qualities/traits are: - Quality/Trait 2,Think about [QID1044-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - Other people would say [QID1044-ChoiceTextEntryValue]'s two worst qualities... - Other people would say [QID1044-ChoiceTextEntryValue]'s two worst qualities/traits are: - Quality/Trait 1,Think about [QID1044-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - Other people would say [QID1044-ChoiceTextEntryValue]'s two worst qualities... - Other people would say [QID1044-ChoiceTextEntryValue]'s two worst qualities/traits are: - Quality/Trait 2,How long have you known [QID1044-ChoiceTextEntryValue]? - Years:,How long have you known [QID1044-ChoiceTextEntryValue]? - Months:,How close are you and [QID1044-ChoiceTextEntryValue]?,How well do you know [QID1044-ChoiceTextEntryValue]?,How well does [QID1044-ChoiceTextEntryValue] know you?,How important is your relationship with [QID1044-ChoiceTextEntryValue]?,How would you rate the quality of your relationship with [QID1044-ChoiceTextEntryValue]?,How satisfied are you with your relationship with [QID1044-ChoiceTextEntryValue]?,How much do you like [QID1044-ChoiceTextEntryValue]?,How often do you stay in touch/interact with [QID1044-ChoiceTextEntryValue]?,"Optional: If you have any additional comments,
+
+please type them in the space provided below."
+"{""ImportId"":""startDate""}","{""ImportId"":""endDate""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""QID805_TEXT""}","{""ImportId"":""QID1112""}","{""ImportId"":""QID1114""}","{""ImportId"":""QID1115""}","{""ImportId"":""QID1103""}","{""ImportId"":""QID1104_TEXT""}","{""ImportId"":""QID1105_TEXT""}","{""ImportId"":""QID1011""}","{""ImportId"":""QID1012""}","{""ImportId"":""QID1014""}","{""ImportId"":""QID1013""}","{""ImportId"":""QID1013_6_TEXT""}","{""ImportId"":""QID1044_TEXT""}","{""ImportId"":""QID933_1""}","{""ImportId"":""QID933_2""}","{""ImportId"":""QID933_3""}","{""ImportId"":""QID933_4""}","{""ImportId"":""QID933_5""}","{""ImportId"":""QID933_6""}","{""ImportId"":""QID933_7""}","{""ImportId"":""QID933_8""}","{""ImportId"":""QID933_9""}","{""ImportId"":""QID933_10""}","{""ImportId"":""QID933_11""}","{""ImportId"":""QID933_12""}","{""ImportId"":""QID933_13""}","{""ImportId"":""QID933_14""}","{""ImportId"":""QID933_15""}","{""ImportId"":""QID933_16""}","{""ImportId"":""QID933_17""}","{""ImportId"":""QID933_18""}","{""ImportId"":""QID933_19""}","{""ImportId"":""QID933_20""}","{""ImportId"":""QID933_21""}","{""ImportId"":""QID933_22""}","{""ImportId"":""QID933_23""}","{""ImportId"":""QID933_24""}","{""ImportId"":""QID933_25""}","{""ImportId"":""QID933_26""}","{""ImportId"":""QID933_27""}","{""ImportId"":""QID933_28""}","{""ImportId"":""QID933_29""}","{""ImportId"":""QID933_30""}","{""ImportId"":""QID933_31""}","{""ImportId"":""QID933_32""}","{""ImportId"":""QID933_33""}","{""ImportId"":""QID933_34""}","{""ImportId"":""QID933_35""}","{""ImportId"":""QID933_36""}","{""ImportId"":""QID933_37""}","{""ImportId"":""QID933_38""}","{""ImportId"":""QID933_39""}","{""ImportId"":""QID933_40""}","{""ImportId"":""QID933_41""}","{""ImportId"":""QID933_42""}","{""ImportId"":""QID933_43""}","{""ImportId"":""QID933_44""}","{""ImportId"":""QID933_45""}","{""ImportId"":""QID933_46""}","{""ImportId"":""QID933_47""}","{""ImportId"":""QID933_48""}","{""ImportId"":""QID933_49""}","{""ImportId"":""QID933_50""}","{""ImportId"":""QID933_51""}","{""ImportId"":""QID933_52""}","{""ImportId"":""QID933_53""}","{""ImportId"":""QID933_54""}","{""ImportId"":""QID933_55""}","{""ImportId"":""QID933_56""}","{""ImportId"":""QID933_57""}","{""ImportId"":""QID933_58""}","{""ImportId"":""QID933_59""}","{""ImportId"":""QID933_60""}","{""ImportId"":""QID933_61""}","{""ImportId"":""QID933_62""}","{""ImportId"":""QID933_63""}","{""ImportId"":""QID933_64""}","{""ImportId"":""QID933_65""}","{""ImportId"":""QID933_66""}","{""ImportId"":""QID933_67""}","{""ImportId"":""QID933_68""}","{""ImportId"":""QID933_69""}","{""ImportId"":""QID933_70""}","{""ImportId"":""QID933_71""}","{""ImportId"":""QID933_72""}","{""ImportId"":""QID933_73""}","{""ImportId"":""QID933_74""}","{""ImportId"":""QID933_75""}","{""ImportId"":""QID933_76""}","{""ImportId"":""QID933_77""}","{""ImportId"":""QID933_78""}","{""ImportId"":""QID933_79""}","{""ImportId"":""QID1060_1""}","{""ImportId"":""QID1107""}","{""ImportId"":""QID1108_1_1""}","{""ImportId"":""QID1108_2_1""}","{""ImportId"":""QID978_1""}","{""ImportId"":""QID978_2""}","{""ImportId"":""QID978_3""}","{""ImportId"":""QID979_1""}","{""ImportId"":""QID979_2""}","{""ImportId"":""QID979_3""}","{""ImportId"":""QID1021_1_1""}","{""ImportId"":""QID1021_1_2""}","{""ImportId"":""QID1021_2_1""}","{""ImportId"":""QID1021_2_2""}","{""ImportId"":""QID1021_3_1""}","{""ImportId"":""QID1021_3_2""}","{""ImportId"":""QID1021_4_1""}","{""ImportId"":""QID1021_4_2""}","{""ImportId"":""QID1021_5_1""}","{""ImportId"":""QID1021_5_2""}","{""ImportId"":""QID1021_6_1""}","{""ImportId"":""QID1021_6_2""}","{""ImportId"":""QID996_1""}","{""ImportId"":""QID996_2""}","{""ImportId"":""QID1064""}","{""ImportId"":""QID1065""}","{""ImportId"":""QID1100""}","{""ImportId"":""QID1066""}","{""ImportId"":""QID1067""}","{""ImportId"":""QID1096""}","{""ImportId"":""QID1068""}","{""ImportId"":""QID1099""}","{""ImportId"":""QID876_TEXT""}"
+2013-11-14 18:21:14,2013-11-14 18:37:04,0,70.195.2.38,,950,1,2013-11-14 18:37:04,R_3Idn2nGhyiSkthj,,,,,38.982192993164,-94.670799255371,,6207,1,1,2,,,,1,3,2,5,,"Kirilka Gavrilova  ",12,7,7,7,8,7,9,9,7,9,8,13,6,9,7,9,7,9,14,7,9,10,8,10,9,9,8,7,9,8,8,9,12,9,8,9,8,11,9,11,9,9,9,9,8,11,10,10,8,9,8,9,4,11,5,7,10,8,9,10,7,9,11,9,9,6,8,7,11,9,7,11,5,8,8,7,11,8,8,12,2,,,Idk,Idk,Idk,4,8,8,T,,,J,C,,D,H,A,H,B,,11,11,6,6,6,5,4,5,5,2,
+2013-11-14 18:52:57,2013-11-14 19:15:39,0,128.252.102.157,,1362,1,2013-11-14 19:15:39,R_6Ym16CzIvQ73ghL,,,,,38.66569519043,-90.323097229004,,4503,2,1,2,,,"590 Hapsfield Lane, Buffalo Grove, IL 60089",2,2,2,1,,Kellie Wilson,12,2,12,2,8,4,3,13,1,3,11,13,14,3,11,12,8,9,1,11,9,3,8,7,11,11,10,12,4,11,8,12,6,7,14,13,12,12,13,5,9,7,5,15,12,1,13,9,10,14,5,9,14,14,3,1,15,9,13,13,14,8,14,9,13,8,7,5,2,11,15,14,15,14,14,2,13,2,2,11,2,,,kind,energetic,fun,14,12,12,nice,fun-loving,energetic,nice,nice,energetic,gets stressed out sometimes,,stresses out,,too busy,gets stressed,,,4,5,5,6,6,7,7,2,
+2013-11-14 19:24:59,2013-11-14 19:28:17,0,128.252.102.172,,198,1,2013-11-14 19:28:17,R_eA5Z6BjR44u6CIR,,,,,38.66569519043,-90.323097229004,,7403,2,1,2,,,,2,4,2,5,,Spencer Soucy,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,15,9,,1,,,15,1,15,15,15,,,,10,3,,,,,,,,,,,,,,,,,,,15,15,15,1,15,10,1,3,2,,,Loud,Bubbly,Sweet,,,,,,,,,,,,,,,,,,3,4,4,7,7,7,7,2,
+2013-11-14 19:56:30,2013-11-14 20:17:26,0,99.103.145.185,,1256,1,2013-11-14 20:17:26,R_74LIzfQPstnQyot,,,,,38.703094482422,-89.878601074219,,7806,2,1,2,,,4 lake drive troy il 62394,2,7,2,5,,"Megan Daniels ",13,13,6,2,12,8,9,9,7,11,2,6,10,7,15,15,13,7,13,9,11,10,6,10,15,15,9,10,6,13,8,11,8,13,13,9,7,9,13,8,6,9,10,5,10,12,11,9,9,8,8,8,10,7,7,8,8,9,7,9,8,12,5,9,8,8,10,9,9,8,9,8,8,9,8,8,9,8,8,8,2,,,"Caring ",Loveable,Smart,14,15,14,Caring,Smart,Nice,Cute,Love able,Smart,Overthinker,"Short ",Worrier,Weird,Overthinker,Short,4,,7,6,6,7,7,5,7,2,
+2013-11-14 18:14:20,2013-11-14 18:17:01,0,98.216.189.189,,161,0,2013-11-21 18:17:10,R_4UDhRtXNna1oum9,,,,,,,,1808,2,1,2,,,,2,33,2,5,,Julia Brosseau,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-11-14 19:46:13,2013-11-14 19:47:53,0,75.66.68.136,,100,0,2013-11-21 19:48:01,R_9Ml8LT4jQiywJxj,,,,,,,,3110,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-11-15 06:37:35,2013-11-15 06:42:05,0,132.3.41.68,,270,0,2013-11-22 06:42:29,R_29KtBDJIOkpG0bX,,,,,,,,7807,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2014-04-23 13:31:51,2014-04-23 13:44:53,0,128.252.25.36,,782,1,2014-04-23 13:44:53,R_3Jcx6awNC1DTVYN,,,,,38.66569519043,-90.323097229004,,1017807,2,1,2,,,"Campus Box 6568
+6985 Snow Way Drive
+St. Louis, MO 63130",2,5,2,3,,Deanna Shipley,10,7,14,1,15,9,4,11,6,9,11,11,7,4,13,14,8,10,4,11,10,9,6,4,11,12,8,13,3,11,8,12,5,4,12,11,12,10,14,3,12,6,4,9,12,10,12,13,13,14,11,15,9,12,4,9,11,8,10,15,15,15,8,10,13,3,7,7,6,7,11,9,12,13,13,13,15,1,3,10,2,,,Sense of humor,Honesty,Bold,11,12,9,Comfort,Honesty,Honesty,Compassion,Tactfulness,Hilarity,Holds a grudge,Judging,Too playful,Judging,Judging,Exclusive,4,7,5,5,5,6,5,5,7,3,
+2014-04-23 14:29:10,2014-04-23 14:39:04,0,208.87.159.38,,594,1,2014-04-23 14:39:04,R_57tclTrOhikYVwN,,,,,39.114196777344,-94.627502441406,,1011710,2,1,2,,,,1,6,2,5,,Mitch McMahon,12,11,13,3,11,2,9,11,9,6,14,12,10,9,12,6,10,13,7,11,12,7,5,4,10,12,7,10,5,12,11,12,5,7,10,13,14,12,13,11,12,4,3,11,14,9,14,14,12,13,10,13,13,14,4,9,13,11,12,13,12,10,11,11,14,3,13,10,6,4,11,13,11,10,13,4,13,2,10,12,2,,,Social,Intelligent,Forceful,15,15,12,Inelligence,Calmness,Strong,Intelligence,Humor,Intelligence,Aggressiveness,Dominance,Procrastination,Laziness,Intimidating,Forceful,,,7,7,7,7,5,5,7,2,
+2014-04-23 17:29:00,2014-04-23 17:49:53,0,66.186.249.34,,1253,1,2014-04-23 17:49:53,R_0kR7XG2LlL0BQjj,,,,,30.297393798828,-90.865699768066,,1013808,2,1,2,,,"18182 Pinehurst Dr.
+Prairieville, LA  70769",2,26,2,3,,Humberto Alexander,13,10,13,3,12,6,13,10,2,13,12,13,13,11,13,7,13,11,1,13,13,9,14,15,11,13,3,14,12,14,2,14,14,11,14,14,7,15,14,15,13,7,12,15,15,1,15,15,15,15,15,15,15,15,8,2,15,14,14,14,14,14,8,13,6,3,8,11,10,8,15,14,14,14,14,14,15,13,4,10,2,,,Outspoken,Honest,Kind,15,14,15,Honesty,Kindness,Creativity,Intelligence,Sweet,Funny,Indecisiveness,Worrying,Physical Disabilities,Lack of Confidence,Shyness,Mean,,,6,7,7,7,6,7,7,2,
+2014-04-24 09:43:47,2014-04-24 10:04:49,0,130.64.237.99,,1262,1,2014-04-24 10:04:49,R_732QP1I25AeFQNL,,,,,42.401901245117,-71.119300842285,,1019010,2,1,2,,,,2,9,2,5,,Mary Saunders,10,2,12,4,15,9,4,10,2,11,13,12,13,10,13,12,14,10,2,13,13,11,15,11,7,7,11,12,12,13,2,14,6,13,13,13,6,10,12,12,14,12,6,14,11,2,13,13,15,15,15,15,12,12,9,2,14,11,12,13,12,10,13,12,12,1,3,3,6,11,14,12,14,14,13,10,12,4,4,12,2,,,Creative,Compassionate,Family Oriented,13,13,10,Creativity,Compassionate,Creativity,Compassionate,Creativity,Compassionate,Easily Stressed,Unadaptable,Easily Stressed,Unadaptable,Easily Stressed,Inefficient,21,10,7,7,7,7,6,6,7,2,
+2014-04-24 09:23:15,2014-04-24 11:04:32,0,50.74.200.154,,6077,1,2014-04-24 11:04:32,R_b2FCmTOq2lEaRyl,,,,,40.714294433594,-74.005996704102,,1018110,2,1,2,,,,1,7,2,5,,Julia Belsky,12,4,15,9,12,9,1,10,1,1,11,11,13,1,15,10,10,7,7,15,11,8,15,9,12,12,6,12,8,12,1,13,3,12,13,13,10,15,15,10,11,10,5,13,13,6,15,15,8,15,15,15,10,10,9,1,15,12,11,11,12,14,8,14,12,12,5,10,2,8,12,10,15,15,12,6,15,8,1,15,2,,,Thoughtful,Diligent,Friendly,12,12,12,Considerate,Ambitious,Considerate,Humility,Friendly,Ambitious,Over-reaching,Doubt,Anxiety,Shlorp,Withholding,SMart,22,12,7,7,7,7,7,7,7,2,
+2014-04-23 13:40:03,2014-04-23 13:42:01,0,128.252.25.46,,118,0,2014-04-30 13:42:18,R_eap2GXcT3d6olQ9,,,,,,,,1012303,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2014-04-23 15:18:14,2014-04-23 15:19:47,0,188.227.166.186,,93,0,2014-04-30 15:19:49,R_9TCb9nmkhrtpAUJ,,,,,,,,1018705,2,2,2,,,"abstractaz@gmail.com
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2014-04-23 15:52:34,2014-04-23 15:53:37,0,128.252.25.40,,63,0,2014-04-30 15:53:40,R_2lWTfL20AOmj96l,,,,,,,,1010605,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2014-04-23 13:42:31,2014-04-23 17:01:28,0,174.251.3.59,,11937,0,2014-04-30 17:01:35,R_eypGQOcjQdUEtDL,,,,,,,,1015306,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2014-04-23 21:47:33,2014-04-23 21:48:40,0,128.252.25.14,,67,0,2014-04-30 21:48:43,R_cBGdgHRz6t4B4fb,,,,,,,,1017103,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2014-04-23 21:46:04,2014-04-23 22:22:34,0,128.252.25.14,,2190,0,2014-04-30 22:22:38,R_8uXaBOGs84kNWW9,,,,,,,,1017103,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2014-04-26 12:39:45,2014-04-26 12:40:35,0,71.14.76.129,,50,0,2014-05-03 12:41:03,R_e2QOeIcKdB2AGNf,,,,,,,,1017103,2,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2014-04-26 13:29:29,2014-04-26 13:35:40,0,209.147.111.4,,371,0,2014-05-03 13:35:43,R_3NMIUxthOPFdO2F,,,,,,,,1011104,2,1,2,,,,2,4,2,5,,Haley Delk,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2014-04-27 00:15:28,2014-04-27 00:26:06,0,173.191.0.2,,638,0,2014-05-04 00:26:08,R_1Tjlu79bxewTwLb,,,,,,,,1016405,,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2014-05-05 12:11:49,2014-05-05 12:22:51,0,128.252.102.113,,662,1,2014-05-05 12:22:51,R_0AHbMu2NZ2jFoXz,,,,,38.66569519043,-90.323097229004,,1018606,2,1,1,2,,6515 wydown blvd campus box 3107 st louis mo 63105,2,3,2,3,,Gabriella Alvarez,14,7,12,4,12,11,14,15,6,12,14,15,10,12,13,12,13,12,5,7,9,10,11,14,13,5,5,2,12,13,9,12,15,6,15,5,6,12,7,13,9,14,12,14,12,4,13,15,15,15,13,15,14,13,4,5,15,15,13,15,14,13,14,14,14,3,4,12,13,10,15,10,15,15,15,11,15,6,1,15,2,,,Funny,Sweet,Shy,15,15,15,funny,sweet,funny,smart,smart,funny,stubborn!!,insecure,stubborn,unfocused,flaky,argumentative,4,,7,7,7,7,7,7,7,1,I love her :)

@@ -1,0 +1,236 @@
+---
+title           : "On Predicting Other People Some of the Time: Within- and Cross-Situational Consistency in Behavior"
+shorttitle      : "Within- and Cross-Situational Consistency"
+date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\. %B %Y')`"
+
+author: 
+  - name        : Emorie D Beck
+    affiliation : 1
+  - name        : Joshua J Jackson
+    affiliation : 1
+
+affiliation:
+  - id          : 1
+    institution : Washington University in St. Louis
+
+output: prereg::cos_prereg
+---
+
+# Study Information
+
+## Title
+<!-- Provide the working title of your study. It may be the same title that you submit for publication of your final manuscript, but it is not a requirement. -->
+
+`r rmarkdown::metadata$title`
+
+## Background  
+Since its inception in the early 20th century, personality psychology has grappled with questions of stability and consistency, with evidence suggesting that personality is temporally stable but somewhat cross-situationally inconsistent. Situationally contingent changes in behavior neither suggest that personality traits do not exist nor diminish the importance of traits. Instead, cross-situational inconsistency is proof of the ability to regulate and respond to the needs of different situations, and variability in cross-situational personality may be a meaningful, “trait-like” individual difference characteristic itself. Some evidence suggests that individuals can a priori estimate their own average variability of personality manifestations (defined as within-person standard deviations; Bem & Allen, 1974), while other evidence suggests that individual estimates of average variability only correspond to the consistency of if…then contingent patterns of personality manifestations in context (Mischel & Shoda, 1995). In other words, it remains an open question whether self-reported consistency corresponds to overall consistency (i.e. cross-situational consistency) in behavior or whether individuals are actually picking up on their tendency to respond consistently in similar contexts (i.e. within-context consistency). However, the existent evidence relies on the overlap of self-reports and/or a lack of objectively defined estimates of variability, thereby artificially inflating the likelihood that there are reliable individual differences in consistency across situations due to method variance. Currently there has been no systematic study of self-and observer differences in cross-situational consistency. The current study investigated self- and observer-reported variability with empirical estimates of within-person variability from Experience Sampling Method data to test whether selves, observers, or neither can accurately capture real variability in personality manifestations. Using longitudinal self-, observer-, and ESM reports, we additionally test the long-term stability of variability estimates.  
+
+## Research questions
+<!-- Please list each research question included in this study. -->
+\begin{enumerate}
+  \item What is the relationship between a priori estimates of one's average variability of personality manifestations and observed consistency...  
+  \begin{enumerate}
+    \item operationalized as observed consistency (within-person standard deviations) of experience sampling measures?  
+    \item operationalized as observed if...then consistency of experience sampling measures?  
+  \end{enumerate}
+  \item What is the relationship between a priori observer estimates of average variability of personality manifestations and observed consistency...  
+  \begin{enumerate}
+    \item operationalized as observed consistency (within-person standard deviations) of experience sampling measures?  
+    \item operationalized as observed if...then consistency of experience sampling measures?  
+  \end{enumerate}
+\end{enumerate}
+
+
+## Hypotheses
+<!-- For each of the research questions listed in the previous section, provide one or multiple specific and testable hypotheses. Please state if the hypotheses are directional or non-directional. If directional, state the direction. A predicted effect is also appropriate here. Providing a short name for each hypothesis (e.g. H1, H2, etc.) will later allow you to easily relate your hypotheses to statistical tests in your analysis plan. -->
+
+\begin{enumerate}
+\item H1: The relationship between Targets' a priori consistency ratings will be non-zero...  
+\begin{enumerate}
+\item H1a: for within-person variability estimates (Bem \& Allen, 1983).  
+\item H1b: for if... then contingency consistency estimates (Mischel \& Shoda, 1995).  
+\end{enumerate}
+\item H2: The relationship between Observers' a priori consistency ratings will be non-zero...  
+\begin{enumerate}
+\item H1a: for within-person variability estimates.  
+\item H1b: for if... then contingency consistency estimates.  
+\end{enumerate}
+\item H3: A-priori consistency-observed consistency relationships will be stronger for if... then contingencies than for within-person variability (Mischel \& Shoda, 1995).   
+\end{enumerate}
+
+# Sampling Plan
+<!-- Please describe how you plan to collect samples, as well as the number of samples you plan to collect and your rationale for this decision. Keep in mind that the data described in this section should be the actual data used for analysis, so if you are using a subset of a larger dataset, please describe the subset that will actually be used in your study. -->
+
+## Existing data
+<!-- Preregistration is designed to make clear the distinction between confirmatory tests, specified prior to seeing the data, and exploratory analyses conducted after observing the data. Therefore, creating a research plan in which existing data will be used presents unique challenges. Please select the description that best describes your situation. Please do not hesitate to contact the Center for Open Science if you have questions about how to answer this questions (prereg@cos.io). -->
+
+**Registration prior to analysis of the data**. As of the date of submission, the data exist and you have accessed it, though no analysis has been conducted related to the research plan (including calculation of summary statistics). In this case, the authors have used the experience sampling data used this study for other projects but have not used self- or observer-estimates of a priori consistency or calculated the composites of consistency that will be the main focus of the present analyses. 
+
+## Explanation of existing data
+<!-- If you indicate that you will be using some data that already exist in this study, please describe the steps you have taken to assure that you are unaware of any patterns or summary statistics in the data. This may include an explanation of how access to the data has been limited, who has observed the data, or how you have avoided observing any analysis of the specific data you will use in your study. The purpose of this question is to assure that the line between confirmatory and exploratory analysis is clear. -->
+
+Although both authors have previously worked with these data, neither have examined (1) within-person variability of ESM measures, (2) if... then contingency consistency of ESM measures, (3) self-ratings of a priori consistency, or (4) observer ratings of a priori consistency. A script of the planned analyses for this project will be included with this preregistration before the data are examined or the planned analyses are run.  
+
+
+## Data collection procedures
+<!-- Please describe the process by which you will collect your data. If you are using human subjects, this should include the population from which you obtain subjects, recruitment efforts, payment for participation, how subjects will be selected for eligibility from the initial pool (e.g. inclusion and exclusion rules), and your study timeline. For studies that don't include human subjects, include information about how you will collect samples, duration of data gathering efforts, source or location of samples, or batch numbers you will use. -->
+
+(Adapted from Beck \& Jackson, 2019)
+
+Undergraduate students at Washington University completed experience sampling method (ESM) surveys as part of the longitudinal Personality and Intimate Relationships Study (PAIRS; Vazire, Wilson, Solomon, Bollich, Harris, Weston, Mike, & Jackson, 2015). For Wave 1, 417 (136 males, 279 females) students with a mean age of 19.44 (SD = 2.33) completed ESM surveys. For each wave, participants were paid \$20 for the laboratory portion of each assessment and entered into a lottery with the chance to win \$100 for completing ESM surveys (if all ESM surveys were completed, the odds of winning were 1 in 10). Participants’ self-reported ethnicities indicated that 56\% identified as Caucasian, 23\% as Asian, 9\% as Black, and 12\% as other. 2\% of participants did not report their ethnicities. 
+
+Before completing the ESM component, participants first completed a two-hour laboratory experiment in which they completed multiple questionnaires as well as several other tasks, which will not be considered in the current study. After completing the laboratory portion, the researchers provided participants with instructions on the ESM component of the study. Participants received four emails per day with links to the ESM survey for two weeks. Including a practice survey, there were thus 59 possible surveys for each participant. 
+
+Participants responded to questions about their situation, emotions, and behavior in the last hour. Nine personality items were taken from the BFI-44 (John, Naumann, & Soto, 2008), but were modified to reflect the collection periods of the ESM survey (e.g. “From 5-6 pm, how engaged were you?”). As noted in Wilson, Thompson, and Vazire (2016), “The shortened BFI scale was comprised of two items per construct taken from the original BFI-44, making sure that each item (a) made sense at the state level; (b) assessed a different facet of the respective Big Five construct; (c) avoided difficult vocabulary words, and (d) had a comparatively high item-total correlation” (p. 4). Participants responded on a 5-point scale from 1 “Not a lot” to 5 “Very.” With the exception of Agreeableness items (2), which were only collected if the participant indicated they were interacting with someone in the previous hour, participants responded to all items at each measurement point. In addition, items from the Openness to Experience domain were not included. A few additional state manifestations of personality were also included, measuring participants' state self-esteem, positve emotion, and negative emotion, each of which were measured in the same way as the BFI items.  
+
+## Sample size
+<!-- Describe the sample size of your study. How many units will be analyzed in the study? This could be the number of people, birds, classrooms, plots, interactions, or countries included. If the units are not individuals, then describe the size requirements for each unit. If you are using a clustered or multilevel design, how many units are you collecting at each level of the analysis? -->
+
+Participants completed a total of 15,563 ESM surveys in Wave 1. Before analyzing the data, several exclusion criteria were applied. ESM surveys were excluded if (1) a survey was completed more than 3 hours after it was sent out, (2) the participant was sleeping during the target measurement point, (3) the participant completed less than 75% of the survey items, and (4) the participant provided the same response for 70\% or more of the items. This resulted in a sample of 11,540 surveys (Wave 1).  
+
+
+## Sample size rationale
+<!-- This could include a power analysis or an arbitrary constraint such as time, money, or personnel. -->
+
+Sample size was determined by power estimates for questions unrelated to this study that were conducted prior to data collection.  
+
+
+## Stopping rule
+<!-- If your data collection procedures do not give you full control over your exact sample size, specify how you will decide when to terminate your data collection. -->
+
+Sample size was pre-planned for ~400.
+
+
+
+# Variables
+<!-- In this section you can describe all variables (both manipulated and measured variables) that will later be used in your confirmatory analysis plan. In your analysis plan, you will have the opportunity to describe how each variable will be used. If you have variables which you are measuring for exploratory analyses, you are not required to list them, though you are permitted to do so. -->
+
+A full codebook of the variables are included as an attachment with this preregistration. 
+
+Roughly they fall into a few categories, listed below. In parenthese are the categories each falls into in the codebook.  
+
+1. Self-ratings of consistency (level == "trait", perspective == "self", type == "consistency")
+2. Observer ratings of consistency (level == "trait", perspective == "observer", type == "consistency")
+3. Self-ratings of state personality (level == "state", perspective == "self", type == "personality")
+4. Self-ratings of binary situation items (level == "state", perspective == "self", type == "situation")
+
+## Manipulated variables
+<!-- Describe all variables you plan to manipulate and the levels or treatment arms of each variable. For observational studies and meta-analyses, simply state that this is not applicable. -->
+
+This study is observational. 
+
+
+## Measured variables
+<!-- Describe each variable that you will measure. This will include outcome measures, as well as any predictors or covariates that you will measure. You do not need to include any variables that you plan on collecting if they are not going to be included in the confirmatory analyses of this study. -->
+
+See codebook. 
+
+
+## Indices
+<!-- If any measurements are  going to be combined into an index (or even a mean), what measures will you use and how will they be combined? Include either a formula or a precise description of your method. If your are using a more complicated statistical method to combine measures (e.g. a factor analysis), you can note that here but describe the exact method in the analysis plan section. -->
+
+\textbf{Within-Person Variability:} calculated for each person by finding the within-person variability (within-person standard deviation) for each personality variable separately.  
+\textbf{If...then Contingency Consistency:} calculated for each person by finding the within-person variability (within-person standard deviation) for each personality variable separately *in each situation separately*.  
+
+
+# Design Plan
+<!-- In this section, you will be asked to describe the overall design of your study. Remember that this research plan is designed to register a single study, so if you have multiple experimental designs, please complete a separate preregistration. -->
+
+
+## Study type
+
+**Observational Study**. Data is collected from study subjects that are not randomly assigned to a treatment. This includes surveys, natural experiments, and regression discontinuity designs.
+
+## Blinding
+<!-- Blinding describes who is aware of the experimental manipulations within a study. Mark all that apply. -->
+
+No blinding is involved in this study.
+
+## Study design
+<!-- Describe your study design. Examples include two-group, factorial, randomized block, and repeated measures. Is it a between (unpaired), within-subject (paired), or mixed design? Describe any counterbalancing required. Typical study designs for observation studies include cohort, cross sectional, and case-control studies. -->
+
+These data come from a longitudinal study of undergraduates and include both repeated assessments of a number of questionnaires over the course of two years as well as intensive repeated measures of personality, situation, and affect measures 4 times per day for two weeks.  
+
+
+## Randomization
+<!-- If you are doing a randomized study, how will you randomize, and at what level? -->
+
+Randomization was done at the participant level for the ordering of items in questionnaires. 
+
+
+
+# Analysis Plan
+<!-- You may describe one or more confirmatory analysis in this section. Remember, all analyses specified in this section must be reported in the final article, and any additional analyses must be clearly labeled as exploratory or hypothesis generating in the final paper. A confirmatory analysis plan must state up front which variables are predictors (independent) and which are the outcomes (dependent), otherwise it is an exploratory analysis.
+
+You may describe exploratory analyses in this section, but a clear confirmatory analysis is required. An exploratory test is any test where a prediction is not made up front, or there are multiple possible tests that you are going to use. A statistically significant finding in an exploratory test is a great way to form a new confirmatory hypothesis, which could be registered at a later time.
+
+To help you keep track of multiple analyses, you may label each for your reference. -->
+
+\begin{enumerate}
+\item Calculate within-person variability and if...then contingency consistency for ESM measures. 
+\item Correlate a priori consistency ratings of self and observers with within-person variability and if...then contingency consistency. 
+\end{enumerate}
+
+Critical tests will be to test if:  
+\begin{enumerate}
+\item Correlations differ from 0. 
+\item Self- and Observer correlations differ from one another. 
+\item Within-person variability and if...then contingency correlations differ from one another. 
+\end{enumerate}
+
+## Statistical models
+<!-- What statistical model(s) will you use to test your hypothesis(ses)? Please include the type of model (e.g. ANOVA, regression, SEM, etc.) as well as the specification of the model (this includes all variables that will be included as predictors, outcomes, or covariates). Refer to the *Hypotheses* section to relate each hypothesis to a statistical analysis. Please specify any interactions that will be tested and remember that any test not included here must be labeled as an exploratory test in your final article. -->
+
+To calculate within-person variability, we will use a bias corrected standard deviation at the level of the individual.
+
+To calculate the correspondence between a priori consistency ratings and observed consistency, we will use a Pearson's r. 
+
+To test whether the correlations differ from 0 (H1 and H2), we will estimate the correlations using Bayesian regression with standardized variables ($Y = r_{YX} + \epsilon$. If the lower tail of the 95\% uncertainty interval of posterior distribution of $r_{XY}$ does not overlap with zero, we will have reliable evidence that a priori consistency corresponds with observed consistency.  
+
+To test the difference in correlations (H3), we will use a test of the difference of dependent correlations (Steiger, 1980).  
+
+
+## Transformations
+<!-- If you plan on transforming, centering, recoding the data, or will require a coding scheme for categorical variables, please describe that process. -->
+
+There will be no transformations of the data. 
+
+
+## Follow-up analyses
+<!-- If not specified previously, will you be conducting any confirmatory analyses to follow up on effects in your statistical model, such as subgroup analyses, pairwise or complex contrasts, or follow-up tests from interactions. Refer to the *Hypotheses* section to relate each hypothesis to a statistical analysis. Remember that any analyses not specified in this research plan must be noted as exploratory. -->
+
+Possible follow-up analyses will be to test whether types of situations may relate to better self- or observer estimates of consistency. 
+
+
+## Inference criteria
+<!-- What criteria will you use to make inferences? Please describe the information you'll use (e.g. p-values, Bayes factors, specific model fit indices), as well as cut-off criterion, where appropriate. Will you be using one or two tailed tests for each of your analyses? If you are comparing multiple conditions or testing multiple hypotheses, will you account for this? -->
+
+We will use Bayesian correlations, so the critical test will be in the overlap of the posterior distributions with a criterion. 
+
+
+## Data exclusion
+<!-- How will you determine what data or samples, if any, to exclude from your analyses? How will outliers be handled? -->
+
+Participants will be excluded pairwise in the analysis (that is, in any given analysis, a participant must have a measure of a priori consistency and a measure of within-person variability or if...then contingency consistency). 
+
+## Missing data
+<!-- How will you deal with incomplete or missing data? -->
+
+See above on Data exclusion. 
+
+## Analysis scripts (optional)
+<!-- The purpose of a fully commented analysis script is to unambiguously provide the responses to all of the questions raised in the analysis section. This step is not common, but we encourage you to try creating an analysis script, refine it using a modeled dataset, and use it in place of your written analysis plan.
+
+Upload an analysis script with clear comments. This optional step is helpful in order to create a process that is completely transparent and increase the likelihood that your analysis can be replicated. We recommend that you run the code on a simulated dataset in order to check that it will run without errors. -->
+
+See attachment. 
+
+
+# References
+## 
+\vspace{-2pc}
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{-1in}
+\setlength{\parskip}{8pt}
+\noindent

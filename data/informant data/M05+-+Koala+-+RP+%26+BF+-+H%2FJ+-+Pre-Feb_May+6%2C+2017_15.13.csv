@@ -1,0 +1,686 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,Q819,Q905,Q903,Q905,Q907,Q486,Q846,Q846_5_TEXT,Q842,Q892,Q828_1,Q828_2,Q828_3,Q828_4,Q828_5,Q828_6,Q828_7,Q828_8,Q828_9,Q828_10,Q828_11,Q828_12,Q828_13,Q828_14,Q828_15,Q828_16,Q828_17,Q828_18,Q828_19,Q828_20,Q828_21,Q828_22,Q828_23,Q828_24,Q828_25,Q828_26,Q828_27,Q828_28,Q828_29,Q828_30,Q828_31,Q828_32,Q828_33,Q828_34,Q828_35,Q828_36,Q828_37,Q828_38,Q828_39,Q828_40,Q828_41,Q828_42,Q828_43,Q828_44,Q828_45,Q828_46,Q828_47,Q828_48,Q828_49,Q828_50,Q828_51,Q828_52,Q828_53,Q828_54,Q828_55,Q828_56,Q828_57,Q828_58,Q828_59,Q828_60,Q879_1,Q879_3,Q881_1,Q881_3,Q883_1,Q883_3,Q832,Q834,Q836,Q838_1,Q840_1,Q842_1,Q844_1_1,Q844_1_2,Q844_2_1,Q844_2_2,Q844_3_1,Q844_3_2,Q844_4_1,Q844_4_2,Q844_5_1,Q844_5_2,Q844_6_1,Q844_6_2,Q848_1,Q848_2,Q848_3,Q848_4,Q848_5,Q848_6,Q848_7,Q848_8,Q848_9,Q850,Q849_1,Q849_2,Q849_3,Q488_1,Q488_2,Q488_3,Q488_4,Q488_5,Q488_6,Q488_7,Q488_8,Q488_9,Q488_10,Q488_11,Q488_12,Q488_13,Q488_14,Q488_15,Q488_16,Q488_17,Q488_18,Q488_19,Q488_20,Q488_21,Q488_22,Q488_23,Q488_24,Q488_25,Q488_26,Q488_27,Q488_28,Q488_29,Q488_30,Q488_31,Q488_32,Q488_33,Q488_34,Q488_35,Q488_36,Q488_37,Q488_38,Q488_39,Q488_40,Q488_41,Q488_42,Q488_43,Q488_44,Q488_45,Q488_46,Q488_47,Q488_48,Q488_49,Q488_50,Q488_51,Q488_52,Q488_53,Q488_54,Q488_55,Q488_56,Q488_57,Q488_58,Q851_1,Q851_2,Q851_3,Q853_1,Q853_2,Q853_3,Q885_1,Q885_2,Q885_3,Q887_1,Q887_2,Q887_3,Q889_1,Q889_2,Q889_3,Q568_1,Q568_2,Q568_3,Q569_1,Q789_1,Q790_1,Q889_1_1,Q889_1_2,Q889_2_1,Q889_2_2,Q889_3_1,Q889_3_2,Q889_4_1,Q889_4_2,Q889_5_1,Q889_5_2,Q889_6_1,Q889_6_2,Q857,Q859,Q861_1,Q861_2,Q861_3,Q861_4,Q861_5,Q863,Q865,Q867_1,Q867_2,Q867_3,Q867_4,Q867_5,Q869,Q871,Q873_1,Q873_2,Q873_3,Q873_4,Q873_5,Q875,Q877,Q879_1,Q879_2,Q879_3,Q879_4,Q879_5,Q881,Q883,Q885_1,Q885_2,Q885_3,Q885_4,Q885_5,Q887,Q889,Q891_1,Q891_2,Q891_3,Q891_4,Q891_5,Q893,Q895,Q897_1,Q897_2,Q897_3,Q897_4,Q897_5,Q899,Q901,Q903_1,Q903_2,Q903_3,Q903_4,Q903_5,Q895_1,Q895_2,Q895_3,Q895_4,Q895_5,Q895_6,Q895_7,Q895_8,Q895_9,Q895_10,Q895_11,Q895_12,Q895_13,Q895_14,Q895_15,Q897_1,Q897_2,Q897_3,Q897_4,Q897_5,Q897_6,Q897_7,Q897_8,Q897_9,Q897_10,Q897_11,Q897_12,Q897_13,Q897_14,Q897_15,Q852_1,Q852_2,Q852_3,Q852_4,Q852_5,Q852_6,Q852_7,Q852_8,Q852_9,Q793,Q794,Q895,Q795,Q796,Q797,Q820,Q891,Q907,Q899
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,Please type in your ID number (as listed in the email):,Do you expect to be paid more that $600 in aggregate during the calendar year by Washington University in St. Louis?,Choose one:,Please type your social security number or WUSTL ID below:,"If you are willing, please provide your mailing address below. (This will be used for record keeping purposes by Washington University only. We will not mail you anything or distribute your information to anyone.)",Please type the name of the person who nominated you:,Please indicate your current romantic relationship status (choose 1): - Selected Choice,Please indicate your current romantic relationship status (choose 1): - Other (please specify) - Text,Was [QID486-ChoiceTextEntryValue] your romantic partner when you completed the last questionnaire we sent you?,Has your romantic relationship status changed since the last time you completed this questionnaire?,"Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is talkative","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - tends to find fault with others","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - does a thorough job","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is depressed, blue","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is original, comes up with new ideas","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is reserved","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is helpful and unselfish with others","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - can be somewhat careless","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is relaxed, handles stress well","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is curious about many different things","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is full of energy","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - starts quarrels with others","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is a reliable worker","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - can be tense","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is ingenious, a deep thinker","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - generates a lot of enthusiasm","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - has a forgiving nature","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - tends to be disorganized","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - worries a lot","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - has an active imagination","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - tends to be quiet","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is generally trusting","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - tends to be lazy","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is emotionally stable, not easily upset","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is inventive","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - has an assertive personality","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - can be cold and aloof","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - perseveres until the task is finished","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - can be moody","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - values artistic, aesthetic experiences","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is sometimes shy, inhibited","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is considerate and kind to almost everyone","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - does things efficiently","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - remains calm in tense situations","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - prefers work that is routine","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is outgoing, sociable","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is sometimes rude to others","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - makes plans and follows through with them","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - gets nervous easily","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - likes to reflect, play with ideas","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - has few artistic interests","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - likes to cooperate with others","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is easily distracted","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is sophisticated in art, music, or literature","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is intelligent","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is funny","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is physically attractive","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is likeable","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is creative","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is interesting","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is happy","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - has high self-esteem","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is lonely","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is arrogant","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is authentic","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is self-disclosing","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is satisfied with life","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - is satisfied with his/her current romantic relationship status","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - likes being around others","Here are a number of characteristics that may or may not apply to you.  Please choose a number (1-15) next to each statement to indicate the extent to which you agree or disagree with that statement. 
+ 
+I am someone who... - feels close, connected to others",Q879 - I am someone who knows my personality,Q879 - [QID486-ChoiceTextEntryValue] sees me as someone who  knows my own personality,Q881 - I am someone who is aware of my behavior,Q881 - [QID486-ChoiceTextEntryValue]  sees me as someone who is aware of my behavior,Q883 - I am someone who is aware of the impression I make on others,Q883 - [QID486-ChoiceTextEntryValue]  sees me as someone who is aware of the impression I make on others,Cardinal trait 1:,Cardinal trait 2:,Cardinal trait 3:,Q838 - [QID828-ChoiceTextEntryValue] describes/dominates my personality,Q840 - [QID829-ChoiceTextEntryValue] describes/dominates my personality,Q842 - [QID830-ChoiceTextEntryValue] describes/dominates my personality,Think about your best and worst qualities/traits when answering the following questions. - My two best qualities/traits are: - Trait/quality 1,Think about your best and worst qualities/traits when answering the following questions. - My two best qualities/traits are: - Trait/quality 2,Think about your best and worst qualities/traits when answering the following questions. - Other people would say my two best qualities/traits are: - Trait/quality 1,Think about your best and worst qualities/traits when answering the following questions. - Other people would say my two best qualities/traits are: - Trait/quality 2,Think about your best and worst qualities/traits when answering the following questions. - [QID486-ChoiceTextEntryValue]  would say my two best qualities/traits are: - Trait/quality 1,Think about your best and worst qualities/traits when answering the following questions. - [QID486-ChoiceTextEntryValue]  would say my two best qualities/traits are: - Trait/quality 2,Think about your best and worst qualities/traits when answering the following questions. - My two worst qualities/traits are: - Trait/quality 1,Think about your best and worst qualities/traits when answering the following questions. - My two worst qualities/traits are: - Trait/quality 2,Think about your best and worst qualities/traits when answering the following questions. - Other people would say my two worst qualities/traits are: - Trait/quality 1,Think about your best and worst qualities/traits when answering the following questions. - Other people would say my two worst qualities/traits are: - Trait/quality 2,Think about your best and worst qualities/traits when answering the following questions. - [QID486-ChoiceTextEntryValue]  would say my two worst qualities/traits are: - Trait/quality 1,Think about your best and worst qualities/traits when answering the following questions. - [QID486-ChoiceTextEntryValue]  would say my two worst qualities/traits are: - Trait/quality 2,The next set of questions is designed to assess the way in which you mentally represent the important people in your life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - It helps to turn to the important people in my life in times of need.,The next set of questions is designed to assess the way in which you mentally represent the important people in your life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - I usually discuss my problems and concerns with the important people in my life.,The next set of questions is designed to assess the way in which you mentally represent the important people in your life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - I talk things over with the important people in my life.,The next set of questions is designed to assess the way in which you mentally represent the important people in your life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - I find it easy to depend on the important people in my life.,The next set of questions is designed to assess the way in which you mentally represent the important people in your life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - I don't feel comfortable opening up to the important people in my life.,The next set of questions is designed to assess the way in which you mentally represent the important people in your life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - I prefer not to show the important people in my life how I feel deep down.,The next set of questions is designed to assess the way in which you mentally represent the important people in your life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - I often worry that the important people in my life don't really care for me.,The next set of questions is designed to assess the way in which you mentally represent the important people in your life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - I'm afraid that the important people in my life may abandon me.,The next set of questions is designed to assess the way in which you mentally represent the important people in your life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - I worry that the important people in my life won't care about me as much as I care about them.,Did anything major happen in your life in the past 4 months? Please describe below.,"Rate the extent to which you agree or disagree with each of the following statements: - People have certain personalities, and they can't really do much to change them.",Rate the extent to which you agree or disagree with each of the following statements: - Someone's personality is something about him/her that he/she can't change very much.,"Rate the extent to which you agree or disagree with each of the following statements: - People can change the way they act, but they can't really change their true personalities.","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is talkative","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - tends to find fault with others","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - does a thorough job","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is depressed, blue","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is original, comes up with new ideas","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is reserved","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is helpful and unselfish with others","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - can be somewhat careless","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is relaxed, handles stress well","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is curious about many different things","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is full of energy","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - starts quarrels with others","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is a reliable worker","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - can be tense","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is ingenious, a deep thinker","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - generates a lot of enthusiasm","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - has a forgiving nature","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - tends to be disorganized","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - worries a lot","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - has an active imagination","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - tends to be quiet","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is generally trusting","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - tends to be lazy","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is emotionally stable, not easily upset","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is inventive","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - has an assertive personality","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - can be cold and aloof","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - perseveres until the task is finished","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - can be moody","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - values artistic, aesthetic experiences","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is sometimes shy, inhibited","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is considerate and kind to almost everyone","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - does things efficiently","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - remains calm in tense situations","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - prefers work that is routine","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is outgoing, sociable","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is sometimes rude to others","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - makes plans and follows through with them","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - gets nervous easily","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - likes to reflect, play with ideas","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - has few artistic interests","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - likes to cooperate with others","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is easily distracted","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is sophisticated in art, music or literature","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is intelligent","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is funny","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is physically attractive","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is likeable","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is creative","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is interesting","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is happy","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - has high self-esteem","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is lonely","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is arrogant","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is authentic","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is self-disclosing","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is satisfied with life","Here are a number of characteristics that may or may not apply to [QID486-ChoiceTextEntryValue]. Please choose a number (1-15) to indicate the extent to which you agree or disagree that a statement describes [QID1486-ChoiceTextEntryValue].
+
+	
+
+	[QID486-ChoiceTextEntryValue] is someone who... - is satisfied with his/her current romantic partner (or current romantic relationship status)",Q851 - [QID486-ChoiceTextEntryValue] is someone who self-deprecates (puts self down),Q851 - [QID486-ChoiceTextEntryValue] sees him/herself as someone who self-deprecates (puts self down),Q851 - Other people see [QID486-ChoiceTextEntryValue] as someone who self-deprecates (puts self down),Q853 - [QID486-ChoiceTextEntryValue] is someone who brags,Q853 - [QID486-ChoiceTextEntryValue] sees him/herself as  someone who brags,Q853 - Other people see [QID486-ChoiceTextEntryValue] as someone who brags,Q885 - [QID486-ChoiceTextEntryValue] is someone who knows his/her personality,Q885 - [QID486-ChoiceTextEntryValue] sees him/herself as someone who knows his/her personality,Q885 - Other people see [QID486-ChoiceTextEntryValue] as someone who knows his/her personality,Q887 - [QID486-ChoiceTextEntryValue] is someone who is aware of his/her behavior,Q887 - [QID486-ChoiceTextEntryValue] sees him/herself as someone who is aware of his/her behavior,Q887 - Other people see [QID486-ChoiceTextEntryValue] as someone who is aware of his/her behavior,Q889 - [QID486-ChoiceTextEntryValue] is someone who is aware of the impression he/she makes on others,Q889 - [QID486-ChoiceTextEntryValue] sees him/herself as someone who is aware of the impression he/she makes on others,Q889 - Other people see [QID486-ChoiceTextEntryValue] as someone who is aware of the impression he/she makes on others,"On the lines below, please type in [QID486-ChoiceTextEntryValue]'s 3 cardinal traits. These are the 3 traits that dominate his/her personality (in other words, [QID486-ChoiceTextEntryValue] is known specifically for having these traits). - Cardinal trait 1","On the lines below, please type in [QID486-ChoiceTextEntryValue]'s 3 cardinal traits. These are the 3 traits that dominate his/her personality (in other words, [QID486-ChoiceTextEntryValue] is known specifically for having these traits). - Cardinal trait 2","On the lines below, please type in [QID486-ChoiceTextEntryValue]'s 3 cardinal traits. These are the 3 traits that dominate his/her personality (in other words, [QID486-ChoiceTextEntryValue] is known specifically for having these traits). - Cardinal trait 3",Q569 - [QID568-ChoiceTextEntryValue-1] describes/dominates [QID486-ChoiceTextEntryValue]'s personality.,Q789 - [QID568-ChoiceTextEntryValue-2] describes/dominates [QID486-ChoiceTextEntryValue]'s personality.,Q790 - [QID568-ChoiceTextEntryValue-3] describes/dominates [QID486-ChoiceTextEntryValue]'s personality.,Think about [QID486-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID486-ChoiceTextEntryValue]'s two best qualities/traits are: - Answer 1,Think about [QID486-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID486-ChoiceTextEntryValue]'s two best qualities/traits are: - Answer 2,Think about [QID486-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID486-ChoiceTextEntryValue] would say his/her two best qualities/traits a... - [QID486-ChoiceTextEntryValue] would say his/her two best qualities/traits are: - Answer 1,Think about [QID486-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID486-ChoiceTextEntryValue] would say his/her two best qualities/traits a... - [QID486-ChoiceTextEntryValue] would say his/her two best qualities/traits are: - Answer 2,Think about [QID486-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - Other people would say [QID486-ChoiceTextEntryValue]'s two best qualities/t... - Other people would say [QID486-ChoiceTextEntryValue]'s two best qualities/traits are: - Answer 1,Think about [QID486-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - Other people would say [QID486-ChoiceTextEntryValue]'s two best qualities/t... - Other people would say [QID486-ChoiceTextEntryValue]'s two best qualities/traits are: - Answer 2,Think about [QID486-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID486-ChoiceTextEntryValue]'s two worst qualities/traits are: - Answer 1,Think about [QID486-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID486-ChoiceTextEntryValue]'s two worst qualities/traits are: - Answer 2,Think about [QID486-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID486-ChoiceTextEntryValue] would say his/her two worst qualities/traits... - [QID486-ChoiceTextEntryValue] would say his/her two worst qualities/traits are: - Answer 1,Think about [QID486-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - [QID486-ChoiceTextEntryValue] would say his/her two worst qualities/traits... - [QID486-ChoiceTextEntryValue] would say his/her two worst qualities/traits are: - Answer 2,Think about [QID486-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - Other people would say [QID486-ChoiceTextEntryValue]'s two worst qualities/... - Other people would say [QID486-ChoiceTextEntryValue]'s two worst qualities/traits are: - Answer 1,Think about [QID486-ChoiceTextEntryValue]'s best and worst qualities/traits when answering the following questions. - Other people would say [QID486-ChoiceTextEntryValue]'s two worst qualities/... - Other people would say [QID486-ChoiceTextEntryValue]'s two worst qualities/traits are: - Answer 2,"_______________________________________________________
+
+_______________________________________________________
+
+
+
+Is [QID486-ChoiceTextEntryValue] outgoing, sociable in general?",How consistent is [QID486-ChoiceTextEntryValue] on this item?,"Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being 'outgoing, sociable.' - Not at all
+
+	‘outgoing, sociable’  1","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being 'outgoing, sociable.' - 2","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being 'outgoing, sociable.' - 3","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being 'outgoing, sociable.' - 4","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being 'outgoing, sociable.' - Extremely
+
+	‘outgoing, sociable’ 5","_______________________________________________________
+
+	_______________________________________________________
+
+	 
+Is [QID486-ChoiceTextEntryValue] considerate, kind in general?",How consistent is [QID486-ChoiceTextEntryValue] on this item?,"Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being 'considerate, kind.' - Not at all ‘considerate, kind’ 1","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being 'considerate, kind.' - 2","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being 'considerate, kind.' - 3","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being 'considerate, kind.' - 4","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being 'considerate, kind.' - Extremely ‘considerate, kind’ 5","_______________________________________________________
+
+	_______________________________________________________
+
+	   
+
+	Does [QID486-ChoiceTextEntryValue] experience  positive emotions in general?",How consistent is [QID486-ChoiceTextEntryValue] on this item?,"Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of having positive emotions. - No positive emotions at all   1","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of having positive emotions. - 2","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of having positive emotions. - 3","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of having positive emotions. - 4","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of having positive emotions. - A lot of positive emotions 5","_______________________________________________________
+
+_______________________________________________________
+
+
+
+Does [QID486-ChoiceTextEntryValue] experience negative emotions in general?",How consistent is [QID486-ChoiceTextEntryValue] on this item?,"Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of having negative emotions. - No negative emotions at all 1","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of having negative emotions. - 2","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of having negative emotions. - 3","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of having negative emotions. - 4","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of having negative emotions. - A lot of negative emotions 5","_______________________________________________________
+
+	_______________________________________________________
+
+	
+
+	Is [QID486-ChoiceTextEntryValue] reliable in general?",How consistent is [QID486-ChoiceTextEntryValue] on this item?,"Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being reliable.
+
+	
+
+	 
+
+
+. - Not at all reliable 1","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being reliable.
+
+	
+
+	 
+
+
+. - 2","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being reliable.
+
+	
+
+	 
+
+
+. - 3","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being reliable.
+
+	
+
+	 
+
+
+. - 4","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being reliable.
+
+	
+
+	 
+
+
+. - Extremely reliable 5","_______________________________________________________
+
+_______________________________________________________
+
+
+	 
+
+	Is [QID486-ChoiceTextEntryValue] happy in general?",How consistent is [QID486-ChoiceTextEntryValue] on this item?,"Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being happy. - Not at all happy 1","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being happy. - 2","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being happy. - 3","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being happy. - 4","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being happy. - Extremely happy 5","_______________________________________________________
+
+	_______________________________________________________
+
+	
+
+	 
+Is [QID486-ChoiceTextEntryValue] someone who is worried in general?",How consistent is [QID486-ChoiceTextEntryValue] on this item?,"Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being worried. - Not at all worried 1","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being worried. - 2","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being worried. - 3","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being worried. - 4","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of being worried. - Extremely worried 5","_______________________________________________________
+
+	_______________________________________________________
+
+	 
+How would you rate [QID486-ChoiceTextEntryValue]'s self-esteem in general?",How consistent is [QID486-ChoiceTextEntryValue] on this item?,"Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of self-esteem. - Low self-esteem 1","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of self-esteem. - 2","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of self-esteem. - 3","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of self-esteem. - 4","Click the boxes next to each level (1-5) to adjust the bars. Each total must equal 100%.
+
+	 
+
+	Rate the percentage of time [QID486-ChoiceTextEntryValue] is at each level of self-esteem. - High self-esteem 5",How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - Whether it is the weekend or a weekday,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - What time of day it is,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - How stressful the situation is,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - How common/familiar the situation is,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - How much [QID486-ChoiceTextEntryValue] likes the people s/he is with,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - How well [QID486-ChoiceTextEntryValue] knows the people s/he is with,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - How much [QID486-ChoiceTextEntryValue] wants to be there,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - How much [QID486-ChoiceTextEntryValue] cares about how s/he comes across,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - How much power/social status [QID486-ChoiceTextEntryValue] has compared to the people s/he is with,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - Whether the conversation [QID486-ChoiceTextEntryValue] is having is shallow or deep,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - The amount of freedom [QID486-ChoiceTextEntryValue] has to behave however s/he wants,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - Whether [QID486-ChoiceTextEntryValue] is alone or with others,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - Whether [QID486-ChoiceTextEntryValue] is with one person or in a group,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - Whether [QID486-ChoiceTextEntryValue] is with a close friend,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s behavior? - Whether [QID486-ChoiceTextEntryValue] is with his/her romantic partner,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - Whether it is the weekend or a weekday,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - What time of day it is,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - How stressful the situation is,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - How common/familiar the situation is,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - How much [QID486-ChoiceTextEntryValue] likes the people s/he is with,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - How well [QID486-ChoiceTextEntryValue] knows the people s/he is with,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - How much [QID486-ChoiceTextEntryValue] wants to be there,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - How much [QID486-ChoiceTextEntryValue] cares about how s/he comes across,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - How much power/social status [QID486-ChoiceTextEntryValue] has compared to the people s/he is with,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - Whether the conversation [QID486-ChoiceTextEntryValue] is having is shallow or deep,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - The amount of freedom [QID486-ChoiceTextEntryValue] has to behave however s/he wants,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - Whether [QID486-ChoiceTextEntryValue] is alone or with others,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - Whether [QID486-ChoiceTextEntryValue] is with one person or in a group,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - Whether [QID486-ChoiceTextEntryValue] is with a close friend,How much do each of the following affect [QID486-ChoiceTextEntryValue]'s mood? - Whether [QID486-ChoiceTextEntryValue] is with his/her romantic partner,"______________________________________________________
+
+
+
+The next set of questions is designed to assess the way in which [QID486-ChoiceTextEntryValue] mentally represents the important people in his/her life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - It helps [QID486-ChoiceTextEntryValue] to turn to the important people in his/her life in times of need.","______________________________________________________
+
+
+
+The next set of questions is designed to assess the way in which [QID486-ChoiceTextEntryValue] mentally represents the important people in his/her life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - [QID486-ChoiceTextEntryValue] usually discusses his/her problems and concerns with the important people in his/her life.","______________________________________________________
+
+
+
+The next set of questions is designed to assess the way in which [QID486-ChoiceTextEntryValue] mentally represents the important people in his/her life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - [QID486-ChoiceTextEntryValue] talks things over with the important people in his/her life.","______________________________________________________
+
+
+
+The next set of questions is designed to assess the way in which [QID486-ChoiceTextEntryValue] mentally represents the important people in his/her life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - [QID486-ChoiceTextEntryValue] finds it easy to depend on the important people in his/her life.","______________________________________________________
+
+
+
+The next set of questions is designed to assess the way in which [QID486-ChoiceTextEntryValue] mentally represents the important people in his/her life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - [QID486-ChoiceTextEntryValue] doesn't feel comfortable opening up to the important people in his/her life.","______________________________________________________
+
+
+
+The next set of questions is designed to assess the way in which [QID486-ChoiceTextEntryValue] mentally represents the important people in his/her life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - [QID486-ChoiceTextEntryValue] prefers not to show the important people in his/her life how he/she feels deep down.","______________________________________________________
+
+
+
+The next set of questions is designed to assess the way in which [QID486-ChoiceTextEntryValue] mentally represents the important people in his/her life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - [QID486-ChoiceTextEntryValue] often worries that the important people in his/her life don't really care for him/her.","______________________________________________________
+
+
+
+The next set of questions is designed to assess the way in which [QID486-ChoiceTextEntryValue] mentally represents the important people in his/her life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - [QID486-ChoiceTextEntryValue] is afraid that the important people in his/her life may abandon him/her.","______________________________________________________
+
+
+
+The next set of questions is designed to assess the way in which [QID486-ChoiceTextEntryValue] mentally represents the important people in his/her life. Please indicate the extent to which you agree or disagree with each statement by choosing a number (1-7) for each item. - [QID486-ChoiceTextEntryValue] worries that the important people in his/her life won't care about him/her as much as he/she cares about them.",How close are you and [QID486-ChoiceTextEntryValue]?,How well do you know [QID486-ChoiceTextEntryValue]?,How well does [QID486-ChoiceTextEntryValue] know you?,How important is your relationship with [QID486-ChoiceTextEntryValue]?,How would you rate the quality of your relationship with [QID486-ChoiceTextEntryValue]?,How much do you like [QID486-ChoiceTextEntryValue]?,How satisfied are you with your relationship with [QID486-ChoiceTextEntryValue]?,How often do you stay in touch/interact with [QID486ChoiceTextEntryValue]?,What blind spots do you think [QID486-ChoiceTextEntryValue] has about his/her own personality? (What characteristics of his/her personality do you think [QID486-ChoiceTextEntryValue] is especially unaware of?),"(Optional) If you have any additional comments, please type them in the space provided below."
+"{""ImportId"":""startDate""}","{""ImportId"":""endDate""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""QID819_TEXT""}","{""ImportId"":""QID904""}","{""ImportId"":""QID901""}","{""ImportId"":""QID902_TEXT""}","{""ImportId"":""QID903_TEXT""}","{""ImportId"":""QID486_TEXT""}","{""ImportId"":""QID841""}","{""ImportId"":""QID841_5_TEXT""}","{""ImportId"":""QID839""}","{""ImportId"":""QID837""}","{""ImportId"":""QID826_1""}","{""ImportId"":""QID826_2""}","{""ImportId"":""QID826_3""}","{""ImportId"":""QID826_4""}","{""ImportId"":""QID826_5""}","{""ImportId"":""QID826_6""}","{""ImportId"":""QID826_7""}","{""ImportId"":""QID826_8""}","{""ImportId"":""QID826_9""}","{""ImportId"":""QID826_10""}","{""ImportId"":""QID826_11""}","{""ImportId"":""QID826_12""}","{""ImportId"":""QID826_13""}","{""ImportId"":""QID826_14""}","{""ImportId"":""QID826_15""}","{""ImportId"":""QID826_16""}","{""ImportId"":""QID826_17""}","{""ImportId"":""QID826_18""}","{""ImportId"":""QID826_19""}","{""ImportId"":""QID826_20""}","{""ImportId"":""QID826_21""}","{""ImportId"":""QID826_22""}","{""ImportId"":""QID826_23""}","{""ImportId"":""QID826_24""}","{""ImportId"":""QID826_25""}","{""ImportId"":""QID826_26""}","{""ImportId"":""QID826_27""}","{""ImportId"":""QID826_28""}","{""ImportId"":""QID826_29""}","{""ImportId"":""QID826_30""}","{""ImportId"":""QID826_31""}","{""ImportId"":""QID826_32""}","{""ImportId"":""QID826_33""}","{""ImportId"":""QID826_34""}","{""ImportId"":""QID826_35""}","{""ImportId"":""QID826_36""}","{""ImportId"":""QID826_37""}","{""ImportId"":""QID826_38""}","{""ImportId"":""QID826_39""}","{""ImportId"":""QID826_40""}","{""ImportId"":""QID826_41""}","{""ImportId"":""QID826_42""}","{""ImportId"":""QID826_43""}","{""ImportId"":""QID826_44""}","{""ImportId"":""QID826_45""}","{""ImportId"":""QID826_46""}","{""ImportId"":""QID826_47""}","{""ImportId"":""QID826_48""}","{""ImportId"":""QID826_49""}","{""ImportId"":""QID826_50""}","{""ImportId"":""QID826_51""}","{""ImportId"":""QID826_52""}","{""ImportId"":""QID826_53""}","{""ImportId"":""QID826_54""}","{""ImportId"":""QID826_55""}","{""ImportId"":""QID826_56""}","{""ImportId"":""QID826_57""}","{""ImportId"":""QID826_58""}","{""ImportId"":""QID826_59""}","{""ImportId"":""QID826_60""}","{""ImportId"":""QID878_1""}","{""ImportId"":""QID878_3""}","{""ImportId"":""QID879_1""}","{""ImportId"":""QID879_3""}","{""ImportId"":""QID880_1""}","{""ImportId"":""QID880_3""}","{""ImportId"":""QID828_TEXT""}","{""ImportId"":""QID829_TEXT""}","{""ImportId"":""QID830_TEXT""}","{""ImportId"":""QID831_1""}","{""ImportId"":""QID832_1""}","{""ImportId"":""QID833_1""}","{""ImportId"":""QID834_1_1""}","{""ImportId"":""QID834_1_2""}","{""ImportId"":""QID834_2_1""}","{""ImportId"":""QID834_2_2""}","{""ImportId"":""QID834_3_1""}","{""ImportId"":""QID834_3_2""}","{""ImportId"":""QID834_4_1""}","{""ImportId"":""QID834_4_2""}","{""ImportId"":""QID834_5_1""}","{""ImportId"":""QID834_5_2""}","{""ImportId"":""QID834_6_1""}","{""ImportId"":""QID834_6_2""}","{""ImportId"":""QID842_1""}","{""ImportId"":""QID842_2""}","{""ImportId"":""QID842_3""}","{""ImportId"":""QID842_4""}","{""ImportId"":""QID842_5""}","{""ImportId"":""QID842_6""}","{""ImportId"":""QID842_7""}","{""ImportId"":""QID842_8""}","{""ImportId"":""QID842_9""}","{""ImportId"":""QID843_TEXT""}","{""ImportId"":""QID847_1""}","{""ImportId"":""QID847_2""}","{""ImportId"":""QID847_3""}","{""ImportId"":""QID488_1""}","{""ImportId"":""QID488_2""}","{""ImportId"":""QID488_3""}","{""ImportId"":""QID488_4""}","{""ImportId"":""QID488_5""}","{""ImportId"":""QID488_6""}","{""ImportId"":""QID488_7""}","{""ImportId"":""QID488_8""}","{""ImportId"":""QID488_9""}","{""ImportId"":""QID488_10""}","{""ImportId"":""QID488_11""}","{""ImportId"":""QID488_12""}","{""ImportId"":""QID488_13""}","{""ImportId"":""QID488_14""}","{""ImportId"":""QID488_15""}","{""ImportId"":""QID488_16""}","{""ImportId"":""QID488_17""}","{""ImportId"":""QID488_18""}","{""ImportId"":""QID488_19""}","{""ImportId"":""QID488_20""}","{""ImportId"":""QID488_21""}","{""ImportId"":""QID488_22""}","{""ImportId"":""QID488_23""}","{""ImportId"":""QID488_24""}","{""ImportId"":""QID488_25""}","{""ImportId"":""QID488_26""}","{""ImportId"":""QID488_27""}","{""ImportId"":""QID488_28""}","{""ImportId"":""QID488_29""}","{""ImportId"":""QID488_30""}","{""ImportId"":""QID488_31""}","{""ImportId"":""QID488_32""}","{""ImportId"":""QID488_33""}","{""ImportId"":""QID488_34""}","{""ImportId"":""QID488_35""}","{""ImportId"":""QID488_36""}","{""ImportId"":""QID488_37""}","{""ImportId"":""QID488_38""}","{""ImportId"":""QID488_39""}","{""ImportId"":""QID488_40""}","{""ImportId"":""QID488_41""}","{""ImportId"":""QID488_42""}","{""ImportId"":""QID488_43""}","{""ImportId"":""QID488_44""}","{""ImportId"":""QID488_45""}","{""ImportId"":""QID488_46""}","{""ImportId"":""QID488_47""}","{""ImportId"":""QID488_48""}","{""ImportId"":""QID488_49""}","{""ImportId"":""QID488_50""}","{""ImportId"":""QID488_51""}","{""ImportId"":""QID488_52""}","{""ImportId"":""QID488_53""}","{""ImportId"":""QID488_54""}","{""ImportId"":""QID488_55""}","{""ImportId"":""QID488_56""}","{""ImportId"":""QID488_57""}","{""ImportId"":""QID488_58""}","{""ImportId"":""QID848_1""}","{""ImportId"":""QID848_2""}","{""ImportId"":""QID848_3""}","{""ImportId"":""QID849_1""}","{""ImportId"":""QID849_2""}","{""ImportId"":""QID849_3""}","{""ImportId"":""QID881_1""}","{""ImportId"":""QID881_2""}","{""ImportId"":""QID881_3""}","{""ImportId"":""QID882_1""}","{""ImportId"":""QID882_2""}","{""ImportId"":""QID882_3""}","{""ImportId"":""QID883_1""}","{""ImportId"":""QID883_2""}","{""ImportId"":""QID883_3""}","{""ImportId"":""QID568_1""}","{""ImportId"":""QID568_2""}","{""ImportId"":""QID568_3""}","{""ImportId"":""QID569_1""}","{""ImportId"":""QID789_1""}","{""ImportId"":""QID790_1""}","{""ImportId"":""QID888_1_1""}","{""ImportId"":""QID888_1_2""}","{""ImportId"":""QID888_2_1""}","{""ImportId"":""QID888_2_2""}","{""ImportId"":""QID888_3_1""}","{""ImportId"":""QID888_3_2""}","{""ImportId"":""QID888_4_1""}","{""ImportId"":""QID888_4_2""}","{""ImportId"":""QID888_5_1""}","{""ImportId"":""QID888_5_2""}","{""ImportId"":""QID888_6_1""}","{""ImportId"":""QID888_6_2""}","{""ImportId"":""QID851""}","{""ImportId"":""QID852""}","{""ImportId"":""QID853_1""}","{""ImportId"":""QID853_2""}","{""ImportId"":""QID853_3""}","{""ImportId"":""QID853_4""}","{""ImportId"":""QID853_5""}","{""ImportId"":""QID854""}","{""ImportId"":""QID855""}","{""ImportId"":""QID856_1""}","{""ImportId"":""QID856_2""}","{""ImportId"":""QID856_3""}","{""ImportId"":""QID856_4""}","{""ImportId"":""QID856_5""}","{""ImportId"":""QID857""}","{""ImportId"":""QID858""}","{""ImportId"":""QID859_1""}","{""ImportId"":""QID859_2""}","{""ImportId"":""QID859_3""}","{""ImportId"":""QID859_4""}","{""ImportId"":""QID859_5""}","{""ImportId"":""QID860""}","{""ImportId"":""QID861""}","{""ImportId"":""QID862_1""}","{""ImportId"":""QID862_2""}","{""ImportId"":""QID862_3""}","{""ImportId"":""QID862_4""}","{""ImportId"":""QID862_5""}","{""ImportId"":""QID863""}","{""ImportId"":""QID864""}","{""ImportId"":""QID865_1""}","{""ImportId"":""QID865_2""}","{""ImportId"":""QID865_3""}","{""ImportId"":""QID865_4""}","{""ImportId"":""QID865_5""}","{""ImportId"":""QID866""}","{""ImportId"":""QID868""}","{""ImportId"":""QID869_1""}","{""ImportId"":""QID869_2""}","{""ImportId"":""QID869_3""}","{""ImportId"":""QID869_4""}","{""ImportId"":""QID869_5""}","{""ImportId"":""QID870""}","{""ImportId"":""QID871""}","{""ImportId"":""QID872_1""}","{""ImportId"":""QID872_2""}","{""ImportId"":""QID872_3""}","{""ImportId"":""QID872_4""}","{""ImportId"":""QID872_5""}","{""ImportId"":""QID873""}","{""ImportId"":""QID874""}","{""ImportId"":""QID875_1""}","{""ImportId"":""QID875_2""}","{""ImportId"":""QID875_3""}","{""ImportId"":""QID875_4""}","{""ImportId"":""QID875_5""}","{""ImportId"":""QID893_1""}","{""ImportId"":""QID893_2""}","{""ImportId"":""QID893_3""}","{""ImportId"":""QID893_4""}","{""ImportId"":""QID893_5""}","{""ImportId"":""QID893_6""}","{""ImportId"":""QID893_7""}","{""ImportId"":""QID893_8""}","{""ImportId"":""QID893_9""}","{""ImportId"":""QID893_10""}","{""ImportId"":""QID893_11""}","{""ImportId"":""QID893_12""}","{""ImportId"":""QID893_13""}","{""ImportId"":""QID893_14""}","{""ImportId"":""QID893_15""}","{""ImportId"":""QID894_1""}","{""ImportId"":""QID894_2""}","{""ImportId"":""QID894_3""}","{""ImportId"":""QID894_4""}","{""ImportId"":""QID894_5""}","{""ImportId"":""QID894_6""}","{""ImportId"":""QID894_7""}","{""ImportId"":""QID894_8""}","{""ImportId"":""QID894_9""}","{""ImportId"":""QID894_10""}","{""ImportId"":""QID894_11""}","{""ImportId"":""QID894_12""}","{""ImportId"":""QID894_13""}","{""ImportId"":""QID894_14""}","{""ImportId"":""QID894_15""}","{""ImportId"":""QID844_1""}","{""ImportId"":""QID844_2""}","{""ImportId"":""QID844_3""}","{""ImportId"":""QID844_4""}","{""ImportId"":""QID844_5""}","{""ImportId"":""QID844_6""}","{""ImportId"":""QID844_7""}","{""ImportId"":""QID844_8""}","{""ImportId"":""QID844_9""}","{""ImportId"":""QID793""}","{""ImportId"":""QID794""}","{""ImportId"":""QID896""}","{""ImportId"":""QID795""}","{""ImportId"":""QID797""}","{""ImportId"":""QID796""}","{""ImportId"":""QID820""}","{""ImportId"":""QID889""}","{""ImportId"":""QID877_TEXT""}","{""ImportId"":""QID898_TEXT""}"
+2013-04-06 12:38:01,2013-04-06 12:42:40,1,,,279,1,2013-04-06 12:42:40,R_cxbQdLrrsOTxB3v,,,,,,,,ASDF,,,,,BEYONCE,1,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,56,0,44,0,0,,,0,38,0,0,62,,,0,18,0,0,82,,,76,0,0,24,0,,,0,70,30,0,0,,,0,69,0,31,0,,,0,32,0,68,0,,,0,43,57,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-04-08 12:55:01,2013-04-08 13:16:06,1,,,1265,1,2013-04-08 13:16:09,R_a2CPbcWqCJ61bQp,,,,,,,,asdf,,,,,beyonce,1,,1,5,2,2,14,2,14,14,14,2,14,14,2,2,14,2,14,2,12,10,2,14,15,10,14,13,12,2,2,14,2,14,14,10,14,14,14,2,2,14,2,14,2,6,10,14,11,9,8,8,13,9,15,15,2,10,12,9,14,11,9,9,13,10,10,12,12,11,dog,woof,bark,13,12,14,happy,sad,glad,mad,cheerful,gloomy,fast,slow,fat,skinny,tall,short,6,6,6,6,4,5,1,1,2,graduation!,5,5,6,18,3,18,3,18,3,15,3,18,18,18,2,16,3,16,16,16,3,5,16,3,16,3,16,16,16,3,16,3,16,3,16,16,16,16,16,3,16,6,16,3,16,3,18,18,18,18,18,16,16,16,16,3,5,18,10,16,16,1,1,1,1,1,1,13,12,13,15,15,12,15,15,12,single lady,crazy in love,running the world,15,15,15,queen,rich,music,fashion,famous,talented,n/a,n/a,n/a,n/a,too perfect,n/a,5,4,0,0,0,10,90,5,4,0,0,0,44,56,5,4,0,0,0,5,95,2,3,54,25,21,0,0,5,4,0,0,20,29,51,5,4,0,0,0,26,74,3,4,20,20,20,20,20,5,4,0,0,0,40,60,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,7,2,2,1,1,1,4,4,,4,4,7,4,5,,
+2013-04-14 21:58:42,2013-04-14 22:07:15,1,,,513,1,2013-04-14 22:07:17,R_4JzBo9lYqgUfDJb,,,,,,,,fdfdfs,,,,,,3,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,54,46,,,54,46,0,0,0,,,0,53,47,0,0,,,52,0,48,0,0,,,0,0,54,46,0,,,53,47,0,0,0,,,54,46,0,0,0,,,0,54,46,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-04-14 22:15:56,2013-04-14 22:19:40,1,,,224,1,2013-04-14 22:19:42,R_8Hu98glR8RfJPwx,,,,,,,,xfc,,,,,BOOM,3,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,GOOD,"BAD ",UGLY,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,HUGE,FAT,CRAZY,,,,,,,,,,,,,,,,,,0,0,0,47,53,,,54,46,0,0,0,,,53,47,0,0,0,,,52,48,0,0,0,,,0,0,47,53,0,,,0,54,46,0,0,,,51,49,0,0,0,,,53,47,0,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,
+2013-04-14 22:19:59,2013-04-14 22:20:00,9,,,1,1,2013-04-14 22:20:00,R_eVi5psVLtRkMMLj,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-04-14 23:38:33,2013-04-14 23:43:28,1,,,295,1,2013-04-14 23:43:30,R_80acoLME8mO38Ql,,,,,,,,gf,,,,,NOON,3,,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,jjj,hhh,mmm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,43,57,,,54,46,0,0,0,,,52,48,0,0,0,,,0,0,0,53,47,,,54,46,0,0,0,,,53,47,0,0,0,,,0,0,55,45,0,,,0,0,57,43,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-05-01 12:12:44,2013-05-01 12:28:36,1,,,952,1,2013-05-01 12:28:37,R_b94Jy8wxcIHkZ4p,,,,,,,,id,,,,,Lauren,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59,41,0,0,0,,,42,58,0,0,0,,,56,44,0,0,0,,,45,0,55,0,0,,,0,47,0,53,0,,,57,0,43,0,0,,,0,39,0,61,0,,,0,37,63,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-05-01 12:45:05,2013-05-01 13:03:43,1,,,1118,1,2013-05-01 13:03:44,R_d5v5HDsWjktReuN,,,,,,,,id,,,,,John,1,,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,one,"two ",three,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63,37,0,0,0,,,35,65,0,0,0,,,68,0,32,0,0,,,61,39,0,0,0,,,63,0,37,0,0,,,65,0,35,0,0,,,58,42,0,0,0,,,60,0,40,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-05-01 13:05:57,2013-05-01 13:08:21,1,,,144,1,2013-05-01 13:08:22,R_6lNu46CIPuGItGR,,,,,,,,id,,,,,john,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67,0,0,0,33,,,39,61,0,0,0,,,0,36,64,0,0,,,0,32,68,0,0,,,0,35,65,0,0,,,0,0,36,0,64,,,0,0,38,0,62,,,71,0,29,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-05-01 17:47:10,2013-05-01 17:52:13,1,,,303,1,2013-05-01 17:52:13,R_b3LdJrVvu3QYy6p,,,,,,,,99999,,,,,ttt,1,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,79,21,,,92,0,8,0,0,,,0,0,0,8,92,,,0,0,7,93,0,,,0,0,93,7,0,,,0,0,6,94,0,,,0,94,6,0,0,,,0,95,0,5,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-05-15 12:07:19,2013-05-15 12:48:17,0,68.183.229.143,,2458,1,2013-05-15 12:48:17,R_bwQfqaMXA6FDS4J,,,,,,,,7902,,,,,Jocelyn Hanson,4,,,,8,12,11,8,11,11,9,11,6,9,9,8,12,9,7,9,4,6,10,8,9,10,9,7,8,6,11,9,10,12,12,11,11,10,12,8,5,11,10,8,5,10,8,11,8,8,9,10,7,6,9,8,12,7,10,6,9,9,9,5,12,5,14,7,10,8,Realistic,Sensitive,Care about appearance,14,12,11,Realistic,Laid back,Realistic,Organized,Realistic,Laid back,Negative,uncaring,Negative,uncaring,negative,uncaring,5,2,2,2,6,6,7,6,6,No.,2,2,2,11,6,9,7,8,5,9,10,4,7,10,7,10,11,6,12,12,12,8,8,3,12,10,13,7,13,3,13,6,3,3,15,10,4,8,13,13,13,6,4,14,10,10,3,12,9,9,13,7,10,10,12,5,2,11,7,8,12,4,4,4,4,8,4,11,13,11,13,13,12,12,12,12,Fun,Outgoing,Generous,11,13,11,Outgoing,Generous,Outgoing,Fun,Outgoing,Generous,Unsympathetic,Inflexible,Unsympathetic,Inflexible,Unsympathetic,Inflexible,4,3,0,0,29,58,13,4,3,0,11,34,21,34,3,3,10,5,31,33,21,2,3,30,35,20,5,10,3,3,2,13,50,23,12,4,3,2,8,49,37,4,3,3,23,46,4,4,23,4,3,9,12,13,47,19,4,4,7,4,2,2,2,5,2,6,3,2,3,3,4,4,4,7,5,5,5,2,2,2,5,3,3,3,3,4,6,6,6,6,3,3,5,4,4,4,4,4,4,4,4,4,2,I don't know.,
+2013-05-15 12:13:39,2013-05-15 12:48:57,0,152.33.59.86,,2118,1,2013-05-15 12:48:57,R_eSfb1ciFbpjFjfv,,,,,,,,501,,,,,"Aditya Sharma ",1,,1,3,10,4,14,15,14,10,12,7,15,14,12,5,14,6,12,9,12,11,6,11,9,11,10,13,12,7,6,10,7,13,11,13,12,12,9,8,6,12,6,11,5,12,10,14,12,14,11,12,14,13,14,12,6,1,14,9,13,6,10,11,11,11,12,10,12,12,Funny,Intelligent,Compassionate,7,10,13,My sense of humor,Intelligence,My sense of humor,Kindness,Kindness,Sense of humor,Apathy,Vanity,Shyness,Easily irritated,Easily irritated,Don't discuss feelings,5,6,6,6,3,2,3,2,3,No,4,4,4,13,5,13,5,7,3,13,9,8,12,12,3,11,10,10,13,13,11,9,7,4,12,7,12,12,5,5,14,5,9,4,12,12,8,11,13,7,6,11,13,11,13,11,10,13,11,7,14,7,13,15,12,5,5,12,11,14,13,6,6,3,7,6,5,11,10,13,7,12,12,10,8,7,Intelligent,Helpful,Kind,11,14,9,Helps others,Compassion,Intelligence,Helps others,Intelligence,Friendliness,Not aware of behavior and how it affects others,Tries too hard,Stressed out easily,Not listening to others,Eccentric,Stressed easily,5,4,0,7,10,15,68,4,3,0,7,7,12,74,5,3,0,0,1,28,71,2,4,67,28,5,0,0,4,3,7,0,12,28,53,5,3,0,0,0,25,75,3,3,68,0,6,0,26,5,3,0,7,22,3,68,4,3,5,5,6,3,4,3,2,5,5,6,5,5,6,5,4,6,4,6,5,5,2,2,6,6,5,4,5,6,6,6,6,6,2,2,2,2,2,7,7,7,6,4,6,4,1,"He doesn't understand how his actions will affect other people and lies about things that will make others upset. ",
+2013-05-15 12:43:10,2013-05-15 13:13:32,0,69.249.148.228,,1822,1,2013-05-15 13:13:33,R_51iHCbKxjGn0h5H,,,,,,,,1002,,,,,Shay Banton,1,,2,,10,8,14,4,10,12,14,10,14,14,12,4,13,13,14,14,12,8,8,12,10,11,2,12,11,5,6,14,6,13,12,14,13,13,14,11,4,12,8,14,2,13,4,12,12,12,14,14,13,14,14,10,10,5,12,10,13,13,10,10,11,12,11,13,9,14,Caring,Happy,Sympathetic,9,11,12,Easygoing,Sympathetic,Intelligent,Charismatic,Helpful,Intelligent,Stubborn,Closed-minded,Stubborn,Perfectionist,Conservative,Perfectionist,5,5,5,6,3,3,2,2,1,,3,4,2,8,10,10,13,11,5,13,9,5,11,10,3,9,11,10,14,13,10,13,10,7,13,2,3,11,7,8,11,14,12,10,13,10,9,12,13,2,9,8,11,4,13,10,13,13,13,13,14,12,12,3,2,8,2,9,8,4,12,14,13,11,2,10,2,11,13,5,5,11,7,3,12,7,Charismatic,Funny,Kind,11,12,13,Kind,Charismatic,Kind,Caring,Charismatic,Funny,Negative,Self-deprecating,Negative,Depressed,Too hard on himself,Up-tight,4,3,0,30,0,30,40,5,4,0,0,0,25,75,2,1,50,35,0,0,15,5,4,30,0,0,20,50,4,3,0,0,25,50,25,2,2,25,35,15,10,15,3,3,5,25,40,25,5,1,4,50,50,0,0,0,5,5,6,7,7,7,4,6,6,3,5,6,6,7,7,6,3,6,6,6,6,6,6,3,4,5,7,6,7,7,5,4,4,4,5,3,6,5,3,7,7,7,7,5,7,5,2,How talented and well-liked he is,
+2013-05-15 12:08:27,2013-05-15 13:15:07,0,165.124.212.6,,4000,1,2013-05-15 13:15:07,R_7V5GNqaJXLEhbr7,,,,,,,,1001,,,,,Shay Banton,1,,1,3,12,5,14,8,10,7,12,6,10,13,13,2,14,10,10,12,15,6,12,12,5,15,5,9,9,9,3,14,11,15,9,15,13,12,9,13,6,15,9,10,2,13,8,10,13,13,11,14,12,13,13,10,4,2,15,15,13,15,11,14,13,13,15,15,14,14,Friendly,Trustworthy,Hardworking,15,15,15,Trustworthy,Loyal,Friendly,Open,Loving,Loyal,Overanalytical,Competitive,Competitive,Sometimes moody,Competitive,Sometimes careless,7,7,7,6,5,1,2,2,4,I obtained a great summer internship. I'm not sure that that qualifies as major.,5,5,6,14,4,12,12,13,3,15,6,5,15,10,1,13,7,15,15,15,4,14,12,4,15,4,7,13,6,2,14,9,15,6,15,12,9,6,15,1,12,6,13,5,13,9,8,15,15,15,15,13,15,13,2,6,1,15,9,7,14,15,15,13,1,1,1,13,12,14,15,15,15,15,15,10,Selfless,Kind,Self-depriciating,15,15,12,Kind,Selfless,Nice,Easy to get along with,Hilarious,Extremely kind,Self-depreciating,,Self-depreciating,Inept,Self-depreciating,,4,3,0,10,15,25,50,5,4,0,0,0,0,100,3,2,15,11,14,25,35,3,3,10,20,10,15,45,4,3,0,0,20,0,80,4,2,20,1,9,30,40,4,3,30,6,4,20,40,2,3,76,0,20,1,3,6,6,7,5,6,7,6,7,5,6,6,6,5,6,6,6,6,7,5,5,5,6,6,4,4,5,7,4,7,7,5,2,2,1,4,6,4,2,2,7,7,7,7,7,7,6,1,"I think he is unaware of some of the most amazing things about him, like his selfless nature.",
+2013-05-15 12:57:39,2013-05-15 14:01:14,0,64.19.1.66,,3815,1,2013-05-15 14:01:15,R_3wKfBVz48H8Cynb,,,,,,,,7801,,,,,Megan Daniels,1,,1,3,10,15,13,7,11,11,5,4,13,13,13,7,12,9,15,12,6,1,5,14,9,4,3,14,12,12,13,11,7,4,4,4,11,13,10,8,8,12,4,10,11,5,3,4,15,13,14,14,10,12,10,14,12,11,11,6,9,8,3,2,15,15,15,12,14,10,Cunning,Intelligent,Mysterious,15,15,15,Cunning,Intelligence,Funny,Helpful,"Intuitive ",Smart,Emotionless,Mildly talkative,Perverse,Kind loud,Sneaky,Cocky,1,2,3,2,5,6,3,4,3,no,5,5,4,4,13,7,8,7,12,9,11,8,7,7,12,12,13,6,7,5,10,11,7,9,4,7,5,6,6,5,8,10,7,9,9,8,6,10,8,9,5,7,5,6,4,12,4,9,8,11,9,7,8,9,6,8,5,9,7,10,8,9,7,7,4,5,5,8,9,8,10,10,10,7,9,7,Laid back,unmotivated,Happy,15,12,14,kindness,lovable,assertiveness,caring,kind,caring,bossy,demanding,laziness,boring,"bland ",unmotivated,2,3,10,70,15,5,0,4,3,0,10,35,45,10,2,3,10,40,40,10,0,4,3,0,0,25,60,15,3,3,0,29,40,31,0,4,3,0,17,24,48,11,2,3,0,19,50,31,0,2,3,21,51,28,0,0,4,5,6,6,5,6,6,3,2,7,4,2,6,6,7,4,5,6,6,5,6,6,3,2,7,4,2,6,6,7,5,6,6,4,2,3,3,3,5,6,7,4,5,5,5,4,1,Her emotions get the better of her often and she doesnt think logically,
+2013-05-15 15:42:49,2013-05-15 18:52:31,0,50.4.108.216,,11382,1,2013-05-15 18:52:32,R_dd6FPE4UwERwDpr,,,,,,,,5402,,,,,Alexandra Rhodes,4,,,,9,6,10,2,6,8,6,9,13,10,11,2,10,8,7,10,12,9,6,11,8,11,8,9,7,6,8,7,8,10,9,11,8,9,12,9,6,9,9,7,3,10,6,14,13,11,8,11,10,10,13,11,8,3,10,9,12,8,10,11,10,8,11,9,8,10,Sweet,Caring,Sassy,9,12,5,Good listener,Energetic,Good listener,Organized,Good listener,Caring,Procrastinator,Judgmental,Procrastinator,Lazy,Procrastinator,"Obliviousness ",6,7,7,6,3,2,1,1,3,,3,4,5,5,10,14,6,8,11,11,7,12,10,8,5,13,9,10,8,9,2,8,8,13,10,2,10,9,8,8,13,6,14,13,12,13,12,12,9,6,9,8,8,3,11,6,12,14,9,10,14,8,12,12,13,8,3,14,10,13,10,9,8,7,7,4,8,12,13,13,14,14,11,14,15,14,Reserved,Intelligent,Kind,11,13,15,Kind,Loyal,Intelligent,Kind,Intelligent,Kind,Judgmental,Stubborn,Stubborn,Judgmental,Stubborn,Hard to Read,3,3,11,22,47,14,6,4,3,0,13,18,29,40,4,2,5,17,18,25,35,2,3,11,23,37,27,2,5,4,0,0,5,10,85,4,3,0,3,23,43,31,3,2,13,34,23,14,16,5,3,1,4,5,30,60,4,3,6,6,6,6,5,4,3,6,5,4,5,6,6,4,3,6,4,6,5,4,5,4,6,4,3,4,4,4,5,6,6,6,3,2,3,3,4,6,6,6,7,6,7,6,1,"I think she is more judgmental than she would like to admit, largely because of interaction with her sister Allison, who is even more judgmental than she is. Neither is a terrible gossip at all, but putting them together can create some pretty nasty statements. ",
+2013-05-15 23:51:37,2013-05-16 00:20:44,0,,,1747,1,2013-05-16 00:20:45,R_9pFIlWh7oVkKeQl,,,,,,,,702,,,,,Josh Dubin,4,,,,13,4,14,4,8,8,11,5,12,12,12,3,13,11,10,10,10,3,13,6,10,12,2,11,9,10,6,13,9,5,,,,,,,5,11,8,9,5,12,6,3,13,13,13,13,12,13,15,15,3,3,12,8,13,5,11,11,12,6,11,9,11,9,Responsible,Hard working,Determined,11,12,12,Hardworking,Nice,Hardworking,Kind,Hardworking,Smart,Serious,Uptight,No fun,Boring,Anal,Not spontaneous,6,6,6,6,6,2,3,3,3,"Finished freshman year of college ",2,4,2,3,12,9,2,11,5,6,11,13,14,9,2,6,3,15,12,11,4,3,10,10,10,10,11,13,13,3,12,4,9,8,6,13,13,5,13,9,14,3,11,4,8,8,8,14,14,5,14,14,14,14,14,2,10,14,11,14,6,4,4,4,3,1,3,12,14,12,10,14,12,11,14,11,Intelligent,Funny,"Easy going ",13,10,11,Smart,Loyal,Smart,Reliable,Smart,Funny,Lazy,Unassertive,Lazy,careless,lazy,careless,4,3,0,42,13,0,45,3,2,0,23,50,27,0,5,3,0,14,5,6,75,2,3,62,0,23,15,0,4,3,0,0,23,53,24,5,3,0,0,0,41,59,2,3,68,32,0,0,0,4,4,0,0,0,93,7,6,6,6,6,7,7,7,7,7,7,7,4,4,6,6,7,7,5,5,7,5,7,7,6,6,6,5,5,5,5,5,5,5,6,3,3,2,2,2,6,7,7,7,7,7,6,2,nothing,
+2013-05-16 09:29:18,2013-05-16 10:48:53,0,128.252.110.113,,4775,1,2013-05-16 10:48:54,R_1GMzNq6w3DCB8IR,,,,,,,,4002,,,,,Christina Johnston,1,,2,,8,11,5,5,15,9,9,8,6,14,4,7,5,10,11,6,10,13,10,13,8,9,11,7,13,9,10,10,12,15,10,9,4,6,8,4,12,4,11,13,1,8,14,13,13,10,9,8,15,11,10,10,9,11,8,13,10,11,10,8,10,9,6,9,5,8,Creative,Adapting,Flighty,15,15,12,Creative,Adapting,Creative,Smart,Creative,Smart,Inconsistent,Imperceptive,Inconsistent,Cold,Inconsistent,Annoying,5,6,7,6,2,1,3,2,4,Broke up with a girl I really liked; started coming out as genderqueer; got together with my best friend.,2,2,3,4,10,15,14,12,14,12,3,1,9,6,1,15,15,12,4,8,1,15,14,14,3,8,3,11,4,11,14,14,13,15,12,14,2,8,5,1,14,15,11,4,8,9,11,15,11,14,13,11,13,4,1,12,1,9,5,1,8,15,13,12,1,13,1,5,11,8,3,6,9,3,9,8,Nervous,Considerate,Unconventional,15,14,14,Considerate,Intelligent,Capable,Hard working,Hard working,Intelligent,Overly nervous,Self-hating,Annoying,Worthless,Quiet,Self-deprecating,2,2,40,20,10,20,10,5,3,10,5,25,30,30,2,3,20,40,30,8,2,5,3,2,8,20,40,30,5,3,10,5,15,35,35,2,3,10,45,35,8,2,4,3,2,8,50,25,15,1,4,15,80,5,0,0,2,2,7,6,6,7,6,6,4,2,3,5,5,6,2,2,2,6,6,5,7,7,6,6,3,3,4,4,5,2,5,2,2,2,5,6,7,7,3,5,7,5,6,4,7,4,1,"She has very stable and very low self-esteem, which blinds her to most of the good things about her personality. She consistently denies that she's intelligent and considerate, both of which I'd say are key parts of her.","She and I dated for about a month in Jan.-Feb. 2013, between the last survey and this one. Before that we were very close friends, but since that ended (she broke up with me amicably) we've been more awkward with each other and are now in the process of getting closer again."
+2013-05-16 22:19:27,2013-05-16 22:44:35,0,71.234.192.191,,1508,1,2013-05-16 22:44:35,R_diIwZjRTxPvcfkh,,,,,,,,7302,,,,,Morgan Kennedy,4,,,,11,9,13,5,12,12,13,6,11,13,13,8,13,8,8,10,13,7,7,9,12,13,7,9,12,5,5,13,11,15,14,14,12,12,8,11,11,14,13,13,3,13,6,14,14,14,9,14,13,13,14,11,2,2,13,13,15,2,15,15,13,13,15,13,14,14,Funny,Quiet,Caring,13,10,15,Caring,Funny,Caring,Kind,Caring,Thoughtful,Judgmental,Complain too much,Judgmental,Awkward,Judgmental,Complain too much,7,7,7,6,2,1,3,2,3,I moved back home for the summer,4,4,5,15,11,13,2,15,4,14,14,6,15,15,2,13,8,12,15,11,2,8,15,2,11,8,11,15,14,5,14,8,13,2,14,14,7,11,15,7,15,6,13,2,10,13,13,13,15,15,15,15,13,13,14,2,2,14,10,14,2,2,2,2,2,2,5,13,13,14,6,12,13,13,13,13,Funny,Confident,Thoughtful,13,13,11,Thoughtful,Funny,Funny,Kind,Confident,Kind,Inflexible,Distracted,Stressed,Distracted,Inflexible,Distracted,4,3,17,0,0,0,83,4,3,30,0,0,0,70,4,3,29,0,0,71,0,2,3,67,0,0,0,33,4,3,17,0,0,0,83,3,2,40,0,0,0,60,2,2,40,0,0,0,60,5,3,10,0,0,0,90,6,4,7,4,6,4,7,2,4,2,7,4,6,6,1,7,5,7,5,6,5,7,3,5,2,7,5,6,6,1,6,5,5,5,2,3,1,1,1,7,7,7,7,6,6,6,1,I think she is unaware of the fact that she can sometimes be very inflexible about plans or activities. She also often does not realize when she is distracted and not paying attention to what people are telling her,
+2013-05-16 23:33:38,2013-05-16 23:49:51,0,173.22.119.9,,973,1,2013-05-16 23:49:52,R_1Zyez7DGAFuvznL,,,,,,,,7402,,,,,Spencer Soucy,4,,,,14,11,13,1,15,4,14,6,6,11,15,2,13,12,14,15,9,14,14,14,6,12,3,9,13,14,3,13,13,14,2,15,11,7,12,14,9,12,3,13,3,11,12,13,13,14,12,14,14,14,15,13,2,2,13,8,15,10,13,15,15,15,13,11,12,12,Genuine,Warm,Loving,14,14,14,Kind,Authentic,Friendly,Giving,Sweet,Nice,Annoying,Distrustful,Annoying,Loud,Gossipy,Loud,6,6,6,6,5,7,2,5,7,Aunt was diagnosed with breast cancer.,4,4,4,14,10,12,3,11,2,14,14,15,15,14,4,14,4,13,15,15,1,11,13,3,14,1,11,12,4,2,15,12,13,2,14,14,14,14,15,1,15,1,15,3,14,2,12,12,14,11,15,14,14,14,12,10,14,13,8,11,10,3,3,4,3,3,3,11,12,12,12,11,11,12,12,12,Forgiving,Outgoing,Lovely,15,15,15,Hilarious,Loving,Loving,Caring,Enjoyable,Kind,Worrier,Dweller,Unsure,Clingy,Cynical,Unsure,4,3,0,0,0,14,86,5,4,0,0,0,10,90,5,3,0,0,1,38,61,3,2,0,0,57,25,18,5,4,0,0,0,10,90,4,3,0,0,0,24,76,4,2,0,20,41,29,10,4,3,0,33,0,4,63,4,4,5,7,7,7,3,6,6,1,1,1,5,6,1,1,4,4,4,6,5,6,6,4,5,6,5,5,6,6,6,6,6,6,6,1,6,6,6,6,6,6,6,6,6,7,1,,
+2013-05-17 08:24:42,2013-05-17 08:42:40,0,76.16.24.191,,1078,1,2013-05-17 08:42:41,R_e425bZKstXvFUrz,,,,,,,,3102,,,,,Jaelyn Deberry,3,,2,,9,9,14,4,9,5,13,7,7,9,10,9,15,9,9,10,7,7,9,7,7,3,1,10,7,7,9,12,9,9,9,15,12,7,9,13,9,12,9,7,9,9,5,8,15,10,15,15,9,12,13,14,5,5,11,8,10,8,12,9,10,10,10,10,9,9,caring,gregarious,energetic,14,14,10,,,,,,,,,,,,,7,4,4,7,2,4,1,1,1,I was diagnosed with multiple sclerosis. I broke up with my boyfriend. I finished my second year at WashU.,4,4,6,14,9,14,1,10,10,6,9,10,10,6,7,15,8,9,10,1,7,10,10,10,10,7,10,8,15,9,14,8,9,8,6,15,9,8,7,11,14,8,9,7,8,6,9,15,15,12,15,10,15,11,15,5,12,15,13,8,12,1,1,1,13,11,8,15,15,15,15,15,15,13,13,13,funny,assertive,"diligent ",15,15,11,,,,,,,,,,,,,3,2,26,28,22,13,11,4,2,13,25,23,21,18,3,3,5,20,30,34,11,2,2,18,25,31,13,13,5,3,8,7,5,31,49,3,3,6,0,58,13,23,3,2,36,48,16,0,0,5,4,0,0,0,2,98,5,6,5,7,7,7,7,7,6,4,5,7,7,6,3,5,4,5,5,6,6,6,,,,,,,,,7,7,7,7,2,2,1,1,1,6,5,5,6,5,7,6,2,Her occasional selfishness.,
+2013-05-17 12:21:33,2013-05-17 13:12:12,0,,,3039,1,2013-05-17 13:12:12,R_6MqAt9BRG1cMA9T,,,,,,,,8001,,,,,Jesse Parkin,1,,1,3,11,13,11,13,13,11,11,5,1,13,8,10,14,14,12,11,5,13,15,14,10,14,3,4,5,12,8,10,13,14,13,11,13,6,11,13,10,5,12,12,2,13,4,9,12,12,12,12,12,12,9,3,14,3,13,13,4,12,12,13,4,4,1,4,2,8,Strong,Independent,Hard worker,5,3,12,Caring,Kind,Matronly,Hard Worker,Caring,,Judgmental,Unable to handle stres,Judgmental,Unable to handle stres,Mean,Unable to handle stres,7,7,7,7,3,5,7,7,7,,2,2,3,4,3,9,4,15,11,15,13,4,15,10,1,11,10,15,15,15,14,3,15,12,14,12,6,15,5,10,3,5,15,15,15,12,11,2,8,6,6,9,15,1,15,15,15,15,15,15,15,15,15,11,5,7,10,15,6,2,4,11,6,11,1,1,1,12,12,8,3,11,5,4,4,4,Smart,Kind,Giving,13,15,15,Kind,Smart,Intelligent,Has lots of drive,Kind,Caring,Cannot control anger,Easily Distracted,Cannot control anger,Easily Distracted,Cannot control anger,Annoying,3,2,10,41,24,19,6,5,4,0,4,0,28,68,4,1,10,15,17,39,19,4,2,15,16,31,23,15,2,2,19,0,35,46,0,4,3,18,16,13,53,0,4,2,12,9,49,22,8,1,3,72,28,0,0,0,1,5,7,6,2,6,6,6,7,5,7,6,6,6,7,1,5,6,5,4,3,4,4,2,6,7,2,2,2,7,4,4,4,4,3,7,2,2,2,7,5,5,7,7,7,4,1,He thinks he's always right. He's not.,
+2013-05-18 16:31:37,2013-05-18 17:19:19,0,72.161.243.162,,2862,1,2013-05-18 17:19:19,R_5A3vJEsMJ4Nnqzr,,,,,,,,1201,,,,,Katarina Schultz,1,,1,3,10,12,13,4,7,5,13,12,14,10,11,5,14,10,7,8,8,4,4,9,6,10,13,14,13,10,8,10,8,10,10,10,11,15,14,12,11,12,9,10,3,14,14,12,13,13,12,13,12,14,13,12,8,6,12,13,12,13,13,12,15,13,15,13,14,14,Affable,Considerate,Calm,13,14,13,Level-headedness,Likable,Funny,Intelligent,Caring,Considerate,Lazy,Lazy,Lazy,Stubborn,Lazy,Jealousy,3,3,4,5,4,4,5,4,5,Nothing MAJOR.,2,2,4,8,15,12,15,13,9,11,12,2,15,7,4,14,14,14,10,12,6,15,14,9,10,8,2,11,5,6,11,13,11,13,10,12,2,13,10,10,10,13,12,4,6,8,8,15,15,15,15,13,15,4,7,13,9,11,15,1,13,15,15,9,8,12,4,12,10,12,9,9,12,13,5,8,Depressed,Intelligent,Beautiful,13,15,13,Smart,Likable,Smart,Caring,Smart,Funny,Worrisome,Delicate,Depressed,Sensitive,Inconsistent,Depressed,3,2,45,20,15,10,10,4,3,20,0,0,50,30,2,2,30,10,34,13,13,5,3,20,0,20,0,60,4,3,12,1,24,37,26,2,3,51,21,0,17,11,5,3,10,0,0,30,60,3,3,30,23,17,20,10,1,7,7,6,6,6,5,6,6,4,5,3,5,6,5,1,6,7,7,7,6,5,4,3,4,4,5,2,6,6,6,6,5,5,1,1,7,7,6,7,7,7,7,7,7,6,1,How open she is with people and whether or not they want to be so involved in her life and issues.,
+2013-05-19 08:56:27,2013-05-19 10:13:28,0,,,4621,1,2013-05-19 10:13:29,R_eEPXV7ub9Dt98PP,,,,,,,,agjeffrey@wustl.edu,,,,,Arianna Williams,1,,1,3,14,12,13,3,14,3,14,6,10,12,15,14,12,10,6,13,14,2,10,11,2,13,9,7,4,9,2,10,3,11,4,13,13,7,7,15,12,13,5,9,4,12,10,15,15,15,15,13,13,15,15,9,6,4,14,15,15,14,15,14,14,14,15,13,14,14,Energetic,Funny,Light Hearted,15,14,12,Energetic,Open Minded,Energetic,Lively,Open,Loving,Stubborn,Easily Irritated,Annoying,Headstrong,Stubborn,Mean,7,7,7,7,1,1,2,1,1,Arianna cheated on me.,3,3,3,14,13,11,4,13,3,14,3,9,13,15,12,13,3,9,13,2,2,10,10,3,13,6,9,7,9,4,9,7,14,3,14,13,7,6,15,10,13,5,4,2,14,2,15,14,14,15,13,12,13,14,10,4,2,14,14,14,14,10,10,2,1,1,1,10,12,5,14,13,13,9,5,7,Energetic,Open,Sweet,15,12,15,Energetic,Caring,Open,Caring,Sweet,Energetic,Stubborn,Closed-minded,stubborn,Picky,stubborn,mean,5,3,0,0,0,95,5,5,3,0,0,0,11,89,5,3,0,0,0,10,90,2,2,0,100,0,0,0,5,4,0,0,0,0,100,4,3,0,0,10,90,0,3,3,0,30,70,0,0,3,2,0,20,49,31,0,4,4,5,6,7,7,7,5,1,6,7,5,3,6,7,3,4,4,4,7,7,7,7,2,3,3,5,6,7,7,6,6,6,6,2,1,2,1,2,7,7,7,7,6,7,6,1,She can be extremely close minded and judgmental especially through body language but she doesn't accept that as truth,I still love her though!
+2013-05-19 11:03:13,2013-05-20 22:13:28,0,173.64.8.233,,126615,1,2013-05-20 22:13:29,R_bszbCz5MgHLLCqp,,,,,,,,6401,,,,,Madison Wilson,1,,1,3,11,10,13,10,6,11,11,6,5,9,7,10,12,12,12,7,10,5,13,6,9,10,5,6,10,12,4,12,10,9,11,10,11,4,5,10,13,12,12,12,9,7,11,10,13,11,15,12,7,10,6,9,11,11,13,10,7,10,11,9,11,13,14,11,14,12,Sarcastic,Honest,Reliable,13,14,13,Reliable,Hard-Working,Reliable,Mature,Reliable,Loving,Arrogant,Too Hard on Self,Sarcastic,Too Hard on Self,Mean,Too Hard on Self,5,2,3,2,5,6,2,2,4,My father went into remission.,3,2,3,13,5,9,6,11,1,10,12,4,12,13,3,6,10,9,12,13,14,12,14,6,10,11,11,9,1,4,10,11,13,10,12,9,3,3,9,6,4,11,11,3,12,14,10,13,12,10,12,13,14,10,8,7,2,9,13,11,10,13,6,9,2,1,1,11,13,10,9,13,6,6,12,4,Crazy,Laid-back,Sweet,15,11,12,Sweet,Different,Crazy,Nice,Nice,Intelligent,Childish,Whiny,Shy,Awkward,Embarrassing,Awkward,2,3,20,35,30,5,10,4,3,0,15,10,50,25,4,2,25,25,5,5,40,2,2,40,5,5,25,25,2,3,40,30,10,15,5,4,4,25,5,0,55,15,4,3,0,20,15,45,20,2,3,15,50,25,3,7,5,2,4,6,7,7,4,2,2,3,5,2,1,5,2,6,7,7,5,4,4,6,5,6,3,5,5,2,6,5,6,3,4,2,4,5,2,2,6,6,7,6,5,4,6,5,1,"Madison is blind to how hard she is on herself, how people actually perceive her and the importance of being assertive.",
+2013-05-15 13:04:03,2013-05-15 13:04:49,0,166.147.99.89,,46,0,2013-05-22 13:04:58,R_etcdY4t463u3ufj,,,,,,,,5202,,,,,McKenna Rogan,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-05-15 13:40:33,2013-05-15 13:50:03,0,88.25.38.157,,570,0,2013-05-22 13:50:17,R_8bGOsqvCGYkJwrP,,,,,,,,2301,,,,,Samantha Gaitsch,1,,1,3,13,7,10,6,11,4,10,11,9,12,13,6,11,11,12,13,10,13,6,11,3,13,9,5,11,14,4,13,9,11,4,11,10,12,7,12,12,10,2,12,6,11,13,6,14,14,14,15,11,13,15,14,1,10,9,3,13,15,14,12,12,12,11,10,9,7,Humor,Kindness,Intelligence,13,13,13,Humor,Kindness,Humor,Kindness,Kindness,Humor,Arrogance,Walling off my emotions,Arrogance,,Arrogance,Walling off my emotions,5,3,4,3,5,5,2,4,5,,2,2,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-05-15 14:33:43,2013-05-15 19:46:03,0,64.107.125.59,,18740,0,2013-05-22 19:46:23,R_8vIDOj8Viltx1c1,,,,,,,,7802,,,,,Megan Daniels,4,,,,14,9,11,3,9,3,4,6,2,11,11,10,12,9,8,9,9,15,14,12,2,14,10,5,3,10,9,3,9,3,2,10,7,2,12,15,11,11,11,4,2,5,10,6,9,12,12,11,9,13,13,4,,3,9,8,7,3,11,11,12,14,9,9,11,14,Outgoing,Assertive,Friendly,12,10,10,Eyes,Smile,Eyes,Smile,eyes,smile,Not self confident,worry too much,negative,,Worry a lot,Not self confident,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-05-15 20:13:10,2013-05-15 21:40:51,0,98.206.23.111,,5261,0,2013-05-22 21:41:02,R_eQLyiB1Vwjmfq2F,,,,,,,,202,,,,,Amy Wang,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-05-23 20:17:41,2013-05-23 23:18:51,0,174.57.231.100,,10870,1,2013-05-23 23:18:52,R_1YyY9NQUTADnvnf,,,,,39.952301025391,-75.163803100586,,8501,,,,,"Lemoine Joseph ",1,,1,3,13,4,11,4,12,3,12,12,11,12,11,2,11,7,9,12,14,14,5,14,3,12,8,13,12,4,4,9,6,13,9,12,9,13,4,10,5,8,8,6,4,12,11,11,13,11,13,14,13,13,13,11,7,3,13,10,11,13,12,12,13,12,12,14,11,13,"Easygoing ","Compassionate ","Quirky ",13,12,14,Quirky,"Easygoing ","Quirky ","Easygoing ",Quirky,Compassionate,"Non-confrontational ","Too hard on myself ","Too quirky ","Non-confrontational ","Non-confrontational ","Too easygoing ",6,6,6,5,3,5,1,1,2,"I finished my first year of college. ",4,3,4,9,11,12,9,9,11,7,6,10,12,10,12,12,12,10,9,5,3,9,9,7,4,4,12,11,13,11,12,13,8,11,7,11,12,13,11,12,11,9,11,7,4,4,11,13,12,14,11,9,12,9,13,6,9,12,7,9,13,5,2,3,9,6,6,12,13,12,12,13,12,12,13,13,"Honest ","Sarcastic ","Serious ",13,15,10,"Honest ","Surprisingly caring ","Honest ","Meticulous ",Honest,"Meticulous ","Too sarcastic ","Closed-minded ",Cares too much what other people think,"Too sarcastic ","Too sarcastic ","Works too hard ",3,4,13,9,63,12,3,2,2,3,8,36,20,33,4,3,16,16,16,46,6,2,3,12,15,15,45,13,4,3,2,4,20,55,19,4,3,3,8,20,47,22,2,3,8,39,23,18,12,5,4,10,7,15,24,44,5,6,6,6,5,5,6,6,5,6,3,5,5,5,6,6,7,6,4,5,5,6,3,5,3,3,4,4,5,5,6,4,5,2,5,5,2,2,2,7,7,7,7,6,7,5,1,"He doesn't always realize how his actions affect other people. Sometimes he does what's best for himself without thinking about how those decisions affect others. ",
+2013-05-24 14:45:59,2013-05-24 14:56:31,0,38.112.26.34,,632,1,2013-05-24 14:56:31,R_79hd6YUesw2vdUF,,,,,41.884902954102,-87.623802185059,,202,,,,,Amy Wang,4,,,,15,10,12,1,14,5,12,14,14,14,10,4,12,12,12,12,14,12,13,13,2,14,12,14,13,14,3,13,5,14,10,12,,12,13,15,11,12,6,14,14,14,12,14,15,15,13,15,14,14,14,14,4,11,13,14,14,6,14,14,13,13,13,13,12,13,Smart,Independent,Hardworking,12,13,13,smart,independent,independent,smart,hardworking,smart,lazy,unmotivated,lazy,unmotivated,lazy,unmotivated,6,6,6,6,1,1,1,5,1,,4,5,5,13,13,13,3,13,4,12,13,13,13,13,3,13,13,13,13,13,13,4,14,4,14,14,14,13,13,3,14,14,14,4,13,14,14,14,14,9,7,6,13,5,14,4,13,14,14,11,13,13,13,14,14,3,3,7,14,14,14,3,3,3,13,4,13,13,13,13,13,13,13,13,13,13,smart,artistic,nice,12,13,11,smart,artistic,smart,nice,smart,artistic,catty,liar,lazy,unmotivated,catty,liar,5,4,3,0,4,0,93,4,4,0,0,0,25,75,4,4,0,0,0,5,95,2,3,87,13,0,0,0,3,3,0,0,100,0,0,5,3,0,0,0,13,87,2,3,59,29,0,12,0,4,4,0,0,0,0,100,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,6,6,6,6,6,6,6,6,6,3,3,4,2,3,3,5,3,"how others perceive her ",
+2013-05-24 14:51:19,2013-05-24 16:08:42,0,98.125.25.19,,4643,1,2013-05-24 16:08:44,R_7QWPH9RyZ29IdUx,,,,,41.45280456543,-82.182403564453,,5101,,,,,Raymundo Marcelo,1,,1,3,11,12,12,4,8,10,10,12,12,14,12,9,12,9,9,9,12,10,7,9,11,11,12,12,9,12,9,13,9,11,11,11,10,11,11,8,8,12,9,13,5,10,7,8,12,9,9,9,9,10,14,14,7,10,9,9,14,15,10,10,13,12,13,13,11,10,Observant,introverted,adventurous,13,10,12,Observant,introverted,observant,intelligent,loving,good listener,make assumptions,speak too soon,introverted,rough,lazy at times,make assumptions,7,6,5,5,3,6,1,1,1,no,4,3,4,9,8,14,4,9,11,15,8,9,13,13,2,12,8,11,10,15,3,9,12,9,12,6,9,9,8,4,14,8,14,9,15,10,10,8,9,7,14,8,10,1,10,8,13,13,14,14,13,13,14,12,10,8,1,9,8,12,15,2,5,1,2,4,2,11,9,10,9,8,9,9,8,9,caring,intelligent,creative,13,10,9,caring,diligent,caring,diligent,caring,hopeful,anxious,can question confidence at times,anxious,lacking confidence,anxious,lacking confidence,3,3,0,29,10,51,10,5,3,0,0,30,40,30,4,3,0,10,40,20,30,2,3,20,70,10,0,0,5,4,0,0,0,0,100,4,3,0,0,20,45,35,2,3,10,30,30,30,0,4,3,0,10,40,30,20,2,2,6,5,5,5,4,5,2,4,4,5,5,5,6,2,2,5,5,5,4,4,4,3,5,4,4,4,4,4,6,5,5,5,4,4,4,4,4,7,7,7,7,7,7,7,1,Sometimes he lacks confidence in himself even though he has no reason to feel in such a way.,
+2013-05-24 18:16:55,2013-05-24 19:27:01,0,24.217.227.174,,4206,1,2013-05-24 19:27:02,R_24Rclc0G3BToBjn,,,,,38.564697265625,-90.535697937012,,5102,,,,,Raymundo Marcelo,4,,,,12,3,15,1,10,3,15,13,15,13,15,1,14,13,12,15,15,13,14,8,3,15,13,15,12,15,1,15,1,12,2,15,11,12,3,15,9,6,6,5,1,15,15,15,15,13,10,15,11,15,15,15,11,11,15,15,15,2,15,13,13,13,15,13,14,14,Energetic,Musical,Immature,15,13,13,Energetic personality,Intelligence,Energetic personality,Friendliness,Energetic personality,Humor,Laziness,Imprudency,Immaturity,Imprudency,Immaturity,Imprudency,7,7,7,7,1,5,2,2,2,No,5,5,6,15,1,12,1,13,1,13,2,15,14,14,1,14,1,13,15,13,2,3,12,2,15,1,15,12,15,1,15,1,15,3,15,12,13,8,15,1,9,7,8,1,15,3,15,15,15,12,14,15,15,15,15,1,1,15,14,15,15,1,1,1,1,3,1,14,15,15,13,15,14,13,15,14,Funny,Musical,Enthusiastic,14,15,13,Humor,Creativty,Humor,Creativity,Humor,Creativity,Taking a line of thought too far,Occassional neediness,Laziness,,Humor,Taking a line of thought too far,5,4,0,0,0,20,80,5,4,0,0,0,20,80,4,4,0,0,10,20,70,2,4,90,10,0,0,0,5,4,0,0,0,10,90,5,4,0,0,0,0,100,2,4,80,10,10,0,0,5,4,0,0,0,0,100,1,2,1,1,2,4,3,4,5,1,2,1,1,4,3,4,4,4,1,2,4,2,2,1,1,1,1,1,1,2,7,2,5,7,1,2,1,1,1,6,6,7,6,7,7,7,2,No,
+2013-05-27 19:52:59,2013-05-27 20:24:48,0,75.65.61.166,,1909,1,2013-05-27 20:24:48,R_aV6oFsLiIwvnEGh,,,,,32.432601928711,-90.155601501465,,6002,,,,,Chelsea Whitaker,4,,,,11,7,7,,10,12,12,10,14,13,13,5,13,7,,13,8,3,6,12,9,12,9,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13,8,13,8,10,8,,,,,,,,,,,,,,,,,,,7,7,7,4,2,4,,,,"i ended my two major college friendships ",6,5,6,13,8,14,3,14,6,11,4,6,6,14,8,14,12,8,11,8,8,9,10,6,10,9,7,12,13,5,13,2,14,7,12,8,7,8,13,5,13,6,8,11,13,8,7,14,12,10,12,14,14,14,13,4,4,8,12,8,11,3,3,3,6,6,6,11,11,11,12,11,12,12,12,12,,,,,,,,,,,,,,,,,,,4,3,10,10,37,43,0,4,3,0,0,0,49,51,4,3,0,0,0,63,37,2,3,12,61,27,0,0,5,3,0,0,0,0,100,4,3,0,0,0,67,33,2,3,0,85,15,0,0,4,3,0,0,20,80,0,6,3,6,5,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,7,,,,,,,6,6,6,7,6,6,5,2,,
+2013-05-21 21:00:35,2013-05-22 00:59:29,0,98.204.248.69,,14334,0,2013-05-29 00:59:48,R_9U2lqZyd26OacMR,,,,,,,,8501,,,,,"Lemoine Joseph ",1,,1,3,10,11,12,9,10,11,7,6,5,10,8,11,13,12,11,10,5,2,10,10,7,7,4,13,10,13,10,12,11,5,7,6,12,10,12,11,12,11,7,10,9,6,3,9,13,12,14,12,10,12,11,13,6,7,11,9,9,12,11,11,12,7,12,5,11,5,"easygoing ","compassionate ","quirky ",13,12,15,"easygoing ","quirky ","quirky ","happy ","easygoing ","quirky ","non-confrontational ","too hard on myself academically ","indecisive ","too quirky ","non-confrontational ","indecisive ",6,6,6,5,4,5,2,1,2,"I finished my first year of college, stayed with my boyfriends parents for the first time, and my boyfriend stayed with my parents for the first time. ",4,4,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-05-30 15:14:10,2013-05-30 16:04:15,0,165.124.212.241,,3005,1,2013-05-30 16:04:16,R_d45fEuutm2e9wlD,,,,,42.05859375,-87.684501647949,,1001,,,,,Shay Banton,1,,1,3,13,6,13,7,12,4,9,9,11,15,12,1,14,5,10,13,15,5,9,11,4,14,3,9,10,7,5,14,11,15,7,15,13,12,9,12,5,14,7,11,2,13,7,10,13,13,10,14,12,13,13,10,4,2,15,12,13,15,11,12,13,14,15,15,15,15,Friendly,Loyal,Down to earth,14,14,13,Friendly,Loyal,Friendly,Down to Earth,Loving,Friendly,Competitive,Moody,Competitive,Hard on myself,Self-depriciating,Defiant,7,7,7,6,2,2,2,2,4,Not particularly.,5,5,5,13,2,13,12,14,3,15,3,6,15,10,1,13,6,15,13,15,7,15,13,3,14,5,7,13,2,1,13,9,15,3,15,11,12,8,13,1,13,7,,3,13,8,10,15,15,15,15,15,15,11,2,3,1,15,6,9,14,13,13,10,1,1,1,14,14,14,15,15,14,15,15,8,Friendly,Selfless,Interesting,15,15,14,Selfless,Loving,Friendly,Good communicator,Friendly,Funny,Self-depreciating,,Self-depreciating,His apperance,Self-depreciating,,4,3,0,10,10,50,30,5,4,0,0,0,0,100,4,2,30,15,5,20,30,4,2,30,20,5,15,30,4,3,0,10,10,10,70,4,2,14,6,20,30,30,3,3,10,25,30,15,20,2,3,50,25,5,10,10,6,4,7,4,4,5,6,3,4,5,6,6,5,7,7,6,4,7,4,6,7,7,3,2,4,5,6,6,7,7,6,3,4,3,5,6,2,3,2,7,7,7,7,7,7,7,1,"He is unaware of how warm and inviting he is to others, how much potential he has, and how beautiful of a person he is inside and out. ",
+2013-05-24 15:01:01,2013-05-24 15:01:31,0,79.157.168.59,,30,0,2013-05-31 15:01:54,R_8wPE5aaa03NIYsd,,,,,,,,2301,,,,,Samantha Gaitsch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-05-24 18:34:06,2013-05-24 18:41:35,0,24.217.102.22,,449,0,2013-05-31 18:41:47,R_dp9cbrfGTzox8BD,,,,,,,,401,,,,,Ginger Lu,5,Broke up with Ginger around Feb.,1,1,13,5,12,2,14,8,13,13,13,13,13,1,13,5,15,12,14,13,9,12,4,14,3,2,12,13,9,11,7,14,6,14,12,12,2,14,6,13,5,10,1,12,12,13,13,14,13,14,14,14,14,14,5,12,13,13,9,11,11,10,13,13,13,13,13,13,Compassionate,Confident,Contemplative,12,12,12,compassion,confidence,compassion,confidence,compassion,confidence,arrogance,carelessness,arrogance,carelessness,carelessness,arrogance,6,6,6,6,1,1,1,1,1,"Nothing really. Because I was pressured into doing this by Ginger a long time ago, I'll say the break-up was just another break-up. Nothing major.",3,3,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-05-18 12:36:54,2013-05-25 19:54:20,0,184.89.110.46,,631046,0,2013-06-01 19:54:25,R_bI9yyrq0JpemrGJ,,,,,,,,5701,,,,,Keegan Hughes,1,,1,3,11,12,7,5,7,7,5,11,8,11,7,4,4,8,4,5,10,10,8,10,5,10,10,11,9,9,10,9,6,9,11,7,5,9,10,9,10,4,5,12,9,12,9,3,10,11,11,8,6,8,12,9,4,10,6,10,12,13,9,9,10,11,10,7,10,9,Humor,Levity,Respect for Intelligence,11,12,9,Levity,Respect for Intelligence,Humor,Levity,Humor,Levity,Procrastination,Lack of Awareness,Procrastination,Organization,Procrastination,Lack of Awareness,4,5,4,5,3,3,6,5,4,,4,4,4,10,3,12,5,12,8,8,10,11,9,9,4,14,7,11,10,10,6,5,11,9,12,4,14,11,6,9,11,9,11,11,12,13,10,11,10,5,9,8,11,4,11,6,12,12,11,11,12,11,12,12,9,6,6,7,10,10,13,9,8,8,7,6,5,11,12,9,11,12,11,7,10,7,Easy-goingness,Work Ethic,Humor,14,9,11,Easy-goingness,Work Ethic,Easy-goingness,Humor,Easy-goingness,Humor,Non-confrontational,Eagerness to Relate,Non-confrontational,Social over Academic Prioritization,Non-confrontational,Eagerness to Relate,4,2,3,30,13,35,19,5,4,0,0,10,15,75,4,3,1,10,0,20,69,1,3,59,28,0,12,1,5,3,0,6,7,10,77,4,3,1,3,8,38,50,2,3,16,28,32,11,13,4,3,2,4,30,39,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-05-25 23:24:15,2013-05-25 23:48:18,0,71.14.72.53,,1443,0,2013-06-01 23:48:21,R_410znGrI4eNUzZP,,,,,,,,802,,,,,Lawrence Weingarten,3,,2,,12,5,8,12,6,9,12,12,2,2,6,3,12,12,6,13,12,12,13,8,7,8,10,6,6,3,6,3,10,8,13,11,9,3,9,9,9,1,12,7,9,15,15,2,12,14,9,12,5,9,5,1,9,2,11,11,1,4,11,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2013-06-05 10:14:00,2013-06-11 15:37:23,0,199.58.28.78,,537803,1,2013-06-11 15:37:24,R_brLBW5wkoQumtAV,,,,,28.399597167969,-81.289497375488,,5701,,,,,Keegan Hughes,1,,1,3,11,10,7,9,10,9,7,11,8,10,7,9,6,10,9,9,11,11,9,9,6,11,11,11,9,6,10,8,9,10,10,9,7,9,10,6,11,4,7,11,9,6,10,5,10,10,10,7,6,10,11,7,9,11,10,10,12,13,10,5,10,9,11,7,9,6,Self-Honesty,Judgmental Fairness,Humor,12,11,12,Judgmental Fairness,Self Honesty,Humor,Intelligence,Humor,Judgmental Fairness,Uncommitedness,Not Thinking Before Speaking,Inconsiderate,Obnoxiousness,Uncommitedness,Not Thinking Before Speaking,5,4,5,4,4,5,5,6,4,,3,3,4,8,5,11,6,11,6,12,9,7,10,8,4,12,9,10,8,11,10,10,11,9,11,6,10,9,7,9,11,9,11,10,11,10,8,10,9,6,10,8,11,5,9,11,10,11,10,10,13,12,11,12,7,6,6,9,10,9,13,6,8,7,5,8,6,6,10,8,11,11,9,6,9,6,Loyalty,Making Time for Others,Intelligence,11,14,11,Making Time for Others,Loyalty,Tomboyishness,Intelligence,Humor,Intelligence,Misreading Others,Time Management,Time Management,Disorganized,Misreading Others,Eagerness to Relate,3,2,17,14,39,15,15,5,3,2,5,11,24,58,4,3,3,6,24,36,31,2,3,30,46,12,9,3,5,3,2,4,5,15,74,4,3,7,4,21,27,41,3,3,16,16,47,14,7,4,3,7,11,24,31,27,5,2,5,6,7,7,4,6,4,2,5,3,5,6,5,6,2,5,5,5,5,5,4,2,2,3,3,5,6,6,5,6,5,5,3,4,3,5,5,7,7,5,6,6,7,6,1,,"This was SO long, and my survey window was closed half-way through so I had to do it TWICE. Break it up and/or make this savable next time so I can exit the window and return later!!!!"
+2013-06-12 16:47:53,2013-06-12 17:13:17,0,64.107.125.59,,1524,1,2013-06-12 17:13:18,R_3snaAtDo1Aga8v3,,,,,38.520004272461,-89.984001159668,,7802,,,,,Megan Daniels,4,,,,13,7,10,3,10,4,7,10,6,8,13,9,12,12,8,12,11,14,13,7,12,12,9,7,9,11,8,9,10,2,4,7,9,3,12,15,10,15,13,8,2,7,13,11,12,12,12,12,9,9,11,7,5,7,7,7,9,5,11,11,13,13,11,9,11,11,Outgoing,Trustworthy,Talkative,10,9,13,Eyes,Smile,Eyes,Smile,Eyes,Smile,low self esteem,worry too much,low self esteem,to assertive,low self-esteem,worry too much,6,6,6,6,2,3,1,4,3,,1,2,5,12,6,11,3,10,10,11,5,7,11,7,5,10,9,10,13,13,2,7,11,11,11,2,10,10,4,8,10,8,9,12,12,12,5,10,9,9,7,8,10,8,11,8,12,11,11,14,13,10,10,12,,2,4,12,12,12,12,5,2,2,3,3,3,12,12,12,12,12,12,12,12,12,Caring,Honest,Determined,12,12,12,Trusting,Friendly,Determined,Caring,Caring,Trusting,Quiet,too honest,Quiet,too honest,Quiet,too honest,4,3,0,0,0,100,0,4,4,0,0,0,100,0,4,3,0,0,0,100,0,2,2,0,100,0,0,0,5,3,0,0,0,100,0,4,3,0,0,0,100,0,3,2,0,100,0,0,0,4,3,0,0,0,100,0,5,6,4,5,5,5,6,5,5,5,5,5,5,5,5,6,6,6,6,6,6,6,6,4,5,4,5,5,5,5,6,6,6,6,1,2,2,1,2,6,5,5,6,5,6,6,1,,
+2013-06-21 08:19:16,2013-06-21 14:49:54,0,199.58.28.78,,23438,1,2013-06-21 14:49:55,R_79Z2JSgitqcFNsh,,,,,28.491302490234,-81.409698486328,,5701,,,,,Keegan Hughes,1,,1,3,9,10,6,9,5,9,9,11,7,11,7,5,5,9,10,4,11,11,11,8,7,11,11,10,9,8,10,5,10,10,10,6,6,9,10,8,12,5,10,10,10,10,10,6,9,10,10,8,9,6,10,9,10,10,8,11,10,13,10,8,11,10,12,11,12,10,Levity,Intelligence,Humor,11,10,12,Judgmental Fairness,Levity,Humor,Intelligence,Levity,Humor,Carelessness,Not Thinking Before Speaking,Inconsiderate,Obnoxiousness,Procrastination,Carelessness,5,3,4,3,5,5,6,5,4,,4,4,5,7,5,10,6,11,8,11,7,9,11,10,5,11,7,11,7,12,9,7,11,9,11,6,11,11,5,9,11,10,11,9,11,11,9,8,8,6,9,7,10,5,10,10,11,12,10,10,12,11,10,12,10,6,6,9,10,11,13,6,6,6,4,6,6,10,11,8,10,10,6,6,9,6,Unselfishness with Time,Eagerness to Bond,Intelligence,11,13,10,Unselfishness with Time,Eagerness to Bond,Tomboyishness,Humor,Tomboyishness,Eagerness to Bond,Misreading Others,Time Management,Time Management,Disorganization,Misreading Others,Disorganization,3,2,10,30,34,24,2,5,3,1,2,5,27,65,4,3,7,8,24,34,27,2,3,30,32,25,8,5,4,3,1,4,21,40,34,4,3,2,6,8,45,39,2,3,18,38,31,7,6,3,3,4,15,36,16,29,6,5,3,5,6,6,5,3,3,4,6,6,6,6,6,6,6,5,5,6,6,6,4,3,3,3,5,6,6,6,6,6,5,6,3,3,6,5,6,6,6,5,7,6,6,6,1,,THIS IS THE THIRD TIME I HAVE TAKEN THIS GODDAMN SURVEY--GET YOUR SOFTWARE FIXED SO IT CAN SAVE MIDWAY THROUGH THE SURVEY!!!
